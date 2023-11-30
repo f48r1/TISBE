@@ -1,0 +1,717 @@
+CAS,SMILES,Name,PG Category,PG SubCategory,REPRO-Data,REPRO-Ref,DEVTOX-Data,DEVTOX-Ref,CAESAR-Pred
+_,,Metals,1.0,1a,R,"1,2",D,"1, 2",_
+6055-19-2,C1CNP(=O)(OC1)N(CCCl)CCCl.O,Cyclophosphamide,1.0,1b,R,2,DTer,2,Toxicant
+3778-73-2,C1CN(P(=O)(OC1)NCCCl)CCCl,Ifosfamide,1.0,1b,RM,3,DTer,3,Toxicant
+470-90-6,CCOP(=O)(OCC)OC(=CCl)C1=C(C=C(C=C1)Cl)Cl,Chlorfenvinphos,1.0,1b,No Data,,D,4,Toxicant
+298-00-0,COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-],Methyl parathion,1.0,1b,No Data,,D,4,Toxicant
+732-11-6,COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2C1=O,Phosmet,1.0,1b,No Data,,D,4,Toxicant
+52-68-6,COP(=O)(C(C(Cl)(Cl)Cl)O)OC,Trichlorfon,1.0,1b,No Data,,D,4,NON-Toxicant
+10596-23-3,C(P(=O)(O)O)(P(=O)(O)O)(Cl)Cl,Clodronic acid,1.0,1b,No Data,,DTer,4,Toxicant
+57-39-6,CC1CN1P(=O)(N2CC2C)N3CC3C,Metepa,1.0,1b,RM,4,D,4,Toxicant
+52-24-4,C1CN1P(=S)(N2CC2)N3CC3,Thiotepa,1.0,1b,RM,5,DTer,5,Toxicant
+19028-32-1,O[P+](=O)S,Phosphonothioic acid,1.0,1b,No Data,,D,4,Toxicant
+2809-21-4,CC(O)(P(=O)(O)O)P(=O)(O)O,Etidronic acid,1.0,1b,No Data,,D,4,Toxicant
+59536-65-1,C1=CC(=C(C(=C1C2=CC(=C(C(=C2)Br)Br)Br)Br)Br)Br,FireMaster® BP-6,3.0,3b-2,No Data,,DTer,6,Toxicant
+67774-32-7,C1=C(C(=CC(=C1Br)Br)Br)C2=CC(=C(C=C2Br)Br)Br,FireMaster® FF-1,3.0,3b-2,No Data,,DTer,6,NON-Toxicant
+12674-11-2,C1=CC(=CC(=C1)Cl)C2=CC(=CC(=C2)Cl)Cl,Aroclor 1016,3.0,3b-2,RF,7,DTer,7,NON-Toxicant
+11104-28-2,C1=CC=C(C=C1)C2=CC(=CC=C2)Cl,Aroclor 1221,3.0,3b-2,RF,7,DTer,7,Toxicant
+11141-16-5,C/C=C(\C)/C(=O)O[C@H]1C[C@H]([C@]2(CO[C@@H]3[C@@H]2[C@]14CO[C@@]([C@H]4[C@]([C@@H]3O)(C)[C@@]56[C@@H]7C[C@H]([C@@]5(O6)C)[C@]8(C=CO[C@H]8O7)O)(C(=O)OC)O)C(=O)OC)OC(=O)C,Aroclor 1232,3.0,3b- 2,RF,7,DTer,7,NON-Toxicant
+53469-21-9,C1=CC(=C(C=C1Cl)Cl)C2=C(C=C(C=C2)Cl)Cl,Aroclor 1242,3.0,3b-2,RF,7,DTer,7,NON-Toxicant
+12672-29-6,C1=C(C=C(C=C1Cl)Cl)C2=CC(=CC(=C2)Cl)Cl,Aroclor 1248,3.0,3b-2,RF,7,DTer,7,NON-Toxicant
+130892-67-0,C1=CC(=C(C(=C1)Cl)OC2=CC(=C(C=C2Cl)Cl)Cl)Cl,"2,2,4,5,6-Pentachlorodiphenyl ether",8.0,8d,No Data,,D,8,NON-Toxicant
+130892-66-9,C1=CC(=C(C(=C1)Cl)OC2=CC(=C(C=C2)Cl)Cl)Cl,"2,3,4,6-Tetrachlorodiphenylether",8.0,8d,No Data,,D,8,Toxicant
+71859-30-8,C1=C(C(=CC(=C1Cl)Cl)Cl)OC2=CC(=C(C=C2Cl)Cl)Cl,"2,2,4,4,5,5-Hexachlordiphenyl ether",8.0,8d,No Data,,D,8,NON-Toxicant
+1836-75-5,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)Cl)Cl,Nitrofen,8.0,8d,No Data,,D,4,Toxicant
+1836-77-7,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2Cl)Cl)Cl,"2,4,6-Trichlorophenyl 4'-nitrophenyl ether",8.0,8d,No Data,,No Evidence,9,Toxicant
+22532-68-9,C1=CC(=CC=C1[N+](=O)[O-])OC2=CC(=C(C=C2Cl)Cl)Cl,"2,4,5-Trichlorophenyl 4'-nitrophenyl ether",8.0,8d,No Data,,D(MT),9,Toxicant
+1836-74-4,C1=CC(=CC=C1[N+](=O)[O-])OC2=CC=C(C=C2)Cl,4-Monochlornitrophenylether,8.0,8d,No Data,,D,10,Toxicant
+82239-20-1,C1=CC(=C(C(=C1)Cl)Cl)C2=C(C=CC(=C2)[N+](=O)[O-])OC3=C(C=C(C=C3)[N+](=O)[O-])C4=C(C(=CC=C4)Cl)Cl,"2,3-Dichloronitrophenylether",8.0,8d,No Data,,D,10,Toxicant
+39145-48-7,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=CC(=C2)Cl)Cl,"2,5-Dichlorophenyl p-nitrophenyl ether",8.0,8d,No Data,,D,10,Toxicant
+2093-28-9,C1=CC(=C(C(=C1)Cl)OC2=CC=C(C=C2)[N+](=O)[O-])Cl,"2,6-Dicholornitrophenylether",8.0,8d,No Data,,D,10,Toxicant
+22532-80-5,C1=CC(=CC=C1[N+](=O)[O-])OC2=CC(=C(C=C2)Cl)Cl,"3,4-Dichlorophenyl p-nitrophenyl ether",8.0,8d,No Data,,D,10,Toxicant
+21105-77-1,C1=CC(=CC=C1[N+](=O)[O-])OC2=CC(=CC(=C2)Cl)Cl,"3,5-Dichloro-4'-nitrodiphenyl ether",8.0,8d,No Data,,D,10,Toxicant
+2671-93-4,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)Br)Br,"2,4-Dibromophenyl 4’-nitrophenyl ether",8.0,8d,No Data,,D,11,Toxicant
+28280-37-7,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)F)F,"2,4-Difluorophenyl 4’-nitrophenyl ether",8.0,8d,No Data,,D,11,Toxicant
+142022-61-5,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C(=C(C=C2)Cl)Cl)Cl,"2,3,4-Trichlorophenyl 4’-nitrophenyl ether",8.0,8d,No Data,,D,11,Toxicant
+142022-59-1,C1=CC(=C(C=C1[N+](=O)[O-])C2=C(C(=CC(=C2)Cl)Cl)Cl)OC3=C(C=C(C=C3)[N+](=O)[O-])C4=C(C(=CC(=C4)Cl)Cl)Cl,"2,3,5-Trichlorophenyl 4’-nitrophenyl ether",8.0,8d,No Data,,D,11,Toxicant
+142022-58-0,C1=CC(=C(C=C1[N+](=O)[O-])C2=C(C=CC(=C2Cl)Cl)Cl)OC3=C(C=C(C=C3)[N+](=O)[O-])C4=C(C=CC(=C4Cl)Cl)Cl,"2,3,6-Trichlorophenyl 4’-nitrophenyl ether",8.0,8d,No Data,,D,11,Toxicant
+108-88-3,CC1=CC=CC=C1,Toluene,8.0,8a,No Data,,D,12,NON-Toxicant
+106-42-3,CC1=CC=C(C=C1)C,p-Xylene,8.0,8a,No Data,,D,13,NON-Toxicant
+108-38-3,CC1=CC(=CC=C1)C,m-Xylene,8.0,8a,No Data,,D,13,NON-Toxicant
+95-47-6,CC1=CC=CC=C1C,o-Xylene,8.0,8a,No Data,,D,13,NON-Toxicant
+27458-20-4,CCCCC1=CC=CC=C1C,Butyltoluene,8.0,8a,No Data,,D,4,NON-Toxicant
+98-82-8,CC(C)C1=CC=CC=C1,Cumeme,,,No Data,,D,4,NON-Toxicant
+98-51-1,CC1=CC=C(C=C1)C(C)(C)C,4-tert-Butyltoluene,8.0,8a,RM,14,D,14,NON-Toxicant
+106-46-7,C1=CC(=CC=C1Cl)Cl,para-Dichlorobenzene,8.0,8c,No Data,,D,15,NON-Toxicant
+1897-45-6,C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl,Chlorothalonil,8.0,8c,No Data,,D,16,Toxicant
+118-74-1,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl,Hexachlorobenzene,8.0,8c,No Data,,D,2,NON-Toxicant
+120-82-1,C1=CC(=C(C=C1Cl)Cl)Cl,"1,2,4-Trichlorobenzene",8.0,8c,No Data,,D,17,NON-Toxicant
+2077-46-5,CC1=C(C=CC(=C1Cl)Cl)Cl,"2,3,6,-Trichlorotoluene",8.0,8c,No Data,,D,4,NON-Toxicant
+98-95-3,C1=CC=C(C=C1)[N+](=O)[O-],Nitrobenzene,8.0,8b,R,12,No Data,,Toxicant
+99-99-0,CC1=CC=C(C=C1)[N+](=O)[O-],4-Nitrotoluene,8.0,8b,R,12,No Data,,Toxicant
+88-72-2,CC1=CC=CC=C1[N+](=O)[O-],2-Nitrotoluene,8.0,8b,R,12,No Data,,Toxicant
+99-65-0,C1=CC(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-],m-Dinitrobenzene,8.0,8b,R,2,No Data,,Toxicant
+100-25-4,C1=CC(=CC=C1[N+](=O)[O-])[N+](=O)[O-],p-Dinitrobenzene,8.0,8b,R,2,No Data,,Toxicant
+121-14-2,CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],"2,4-Dinitrotoluene",8.0,8b,R,2,D,18,Toxicant
+606-20-2,CC1=C(C=CC=C1[N+](=O)[O-])[N+](=O)[O-],"2,6-Dinitrotoluene",8.0,8b,R,12,No Data,,Toxicant
+602-01-7,CC1=C(C(=CC=C1)[N+](=O)[O-])[N+](=O)[O-],"2,3-Dinitrotoluene",8.0,8b,R,12,No Data,,Toxicant
+610-39-9,CC1=CC(=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],"3,4-Dinitrotoluene",8.0,8b,R,12,No Data,,Toxicant
+618-85-9,CC1=CC(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-],"3,5-Dinitrotoluene",8.0,8b,R,12,No Data,,Toxicant
+619-15-8,CC1=C(C=CC(=C1)[N+](=O)[O-])[N+](=O)[O-],"2,5-Dinitrotoluene",8.0,8b,R,12,No Data,,Toxicant
+81-15-2,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)[N+](=O)[O-],Musk Xylene,8.0,8b,No Data,,D,19,Toxicant
+1582-09-8,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],Trifluralin,8.0,8b,No Data,,D,20,Toxicant
+32536-52-0,C1=C(C(=C(C(=C1Br)Br)Br)Br)OC2=CC(=C(C(=C2Br)Br)Br)Br,Octabromodiphenyl ether,8.0,8d,RF,21,D,21,Toxicant
+32534-81-9,C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br,Pentabromodiphenyl ether,8.0,8d,No Data,,D(MT),22,Toxicant
+1163-19-5,C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br,Decabromobiphenyl ether,8.0,8d,No Evidence,22,No Evidence,22,NON-Toxicant
+60123-64-0,C1=CC(=C(C=C1Cl)Cl)OC2=CC(=C(C=C2Cl)Cl)Cl,"2,2,4,4,5-Pentachlorodiphenylether",8.0,8d,No Data,,D,8,NON-Toxicant
+1689-84-5,C1=C(C=C(C(=C1Br)O)Br)C#N,Bromoxynil,8.0,8e,No Data,,D,12,Toxicant
+1689-83-4,C1=C(C=C(C(=C1I)O)I)C#N,Ioxynil,8.0,8e,No Data,,D,12,Toxicant
+1689-99-2,CCCCCCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br,Bromoxynil octanoate,8.0,8e,No Data,,D,12,Toxicant
+3861-47-0,CCCCCCCC(=O)OC1=C(C=C(C=C1I)C#N)I,Ioxynil octanoate,8.0,8e,No Data,,D,12,Toxicant
+1420-07-1,CC(C)(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O,Dinoterb,8.0,8e,No Data,,D,4,Toxicant
+99610-72-7,C1=C(C=C(C(=C1NCCO)O)[N+](=O)[O-])[N+](=O)[O-],"2-(2-Hydroxy-3,5-dinitroanilino)ethanol",8.0,8e,R,12,No Data,,Toxicant
+81-14-1,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,Musk Ketone,8.0,8b,No Data,,D,19,Toxicant
+6903-25-9,CCCCC(CCC)C1=CC(=C(C(=C1)[N+](=O)[O-])OC(=O)/C=C/C)[N+](=O)[O-],"2,6-Dinitro-4-(1-propylpentyl)phenyl crotonate",8.0,8e,No Data,,DTer,23,Toxicant
+485-31-4,CCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)C=C(C)C,Binapacryl,8.0,8e,No Evidence,24,No Evidence,24,Toxicant
+103-95-7,CC(C)C1=CC=C(C=C1)CC(C)C=O,Cyclamen aldehyde,9.0,9a,RM,25,D,25,Toxicant
+18127-01-0,CC(C)(C)C1=CC=C(C=C1)CCC=O,Bourgeonal,9.0,9a,RM,26,No Data,,Toxicant
+93-53-8,CC(C=O)C1=CC=CC=C1,Cumene aldehyde,9.0,9a,RM,26,No Data,,Toxicant
+6658-48-6,CC(C)CC1=CC=C(C=C1)CC(C)C=O,Silvial,9.0,9a,RM,26,No Data,,Toxicant
+7775-00-0,CC(C)C1=CC=C(C=C1)CCC=O,Cyclemax,9.0,9a,RM,26,No Data,,Toxicant
+98-73-7,CC(C)(C)C1=CC=C(C=C1)C(=O)O,p-tert-Butylbenzoic acid,9.0,9b,RM,27,No Data,,Toxicant
+939-97-9,CC(C)(C)C1=CC=C(C=C1)C=O,p-tert-Butylbenzaldehyde,9.0,9a,RM,28,No Data,,Toxicant
+5406-86-0,CC(C)(C)C1=CC=C(C=C1)CCO,p-tert-Butylphenethyl alcohol,9.0,9a,R,29,No Data,,Toxicant
+62518-65-4,CC(CC1=CC(=CC=C1)C(C)(C)C)C=O,3-(3-tert-Butylphenyl)-2-methylpropanal,9.0,9a,No Data,,D,26,Toxicant
+41496-43-9,CC1=CC=C(C=C1)CC(C)C=O,2-Methyl-3-p-tolylpropanal,,,No Evidence,26,No Data,,Toxicant
+5462-06-6,CC(CC1=CC=C(C=C1)OC)C=O,3-(4-Methoxy phenyl)-2-methylpropionaldehyde,,,No Evidence,26,No Data,,NON-Toxicant
+80-54-6,CC(CC1=CC=C(C=C1)C(C)(C)C)C=O,4-tert-Butyl-?-methylhydrocinnamic aldehyde,9.0,9a,RM,26,No Data,,Toxicant
+93-76-5,C1=C(C(=CC(=C1Cl)Cl)Cl)OCC(=O)O,"2,4,5-Tricholorphenxoyacetic acid",9.0,9c,No Evidence,30,No Data,31,Toxicant
+94-75-7,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,Dichlorophenoxyacetic acid,9.0,9c,R(T),"32,33",D(MT),"32, 33",NON-Toxicant
+2702-72-9,C1=CC(=C(C=C1Cl)Cl)OCC(=O)[O-].[Na+],"2,4-D Sodium salt",9.0,9c,R(T),"32, 33",D(MT),"32, 33",NON-Toxicant
+5742-19-8,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O.C(CO)NCCO,"2,4-D Diethanolamine salt",9.0,9c,R(T),"32, 33",D(MT),"32, 33",NON-Toxicant
+2008-39-1,CNC.C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,"2,4-D Dimethylamine salt (DMA)",9.0,9c,R(T),"32, 33",D(MT),"32, 33",NON-Toxicant
+5742-17-6,CC(C)[NH3+].C1=CC(=C(C=C1Cl)Cl)OCC(=O)[O-],"2,4-D Isopropylamine salt (IPA)",9.0,9c,R(T),"32, 33",D(MT),"32, 33",NON-Toxicant
+32341-80-3,CC(CN(CC(C)O)CC(C)O)O.C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,"2,4-D Triisopropanolamine salt (TIPA)",9.0,9c,R(T),"32, 33",D(MT),"32, 33",NON-Toxicant
+1929-73-3,CCCCOCCOC(=O)COC1=C(C=C(C=C1)Cl)Cl,"2,4-D 2-Butoxyethyl ester (BEE)",9.0,9c,R(T),"32, 33",D(MT),"32, 33",NON-Toxicant
+1928-43-4,CCCCC(CC)COC(=O)COC1=C(C=C(C=C1)Cl)Cl,"2,4-D 2-Ethylhexyl ester (2-EHE)",9.0,9c,R(T),"32, 33",D(MT),"32, 33",NON-Toxicant
+94-11-1,CC(C)OC(=O)COC1=C(C=C(C=C1)Cl)Cl,"2,4-D Isopropyl ester (IPE)",9.0,9c,R(T),"32, 33",D(MT),"32, 33",NON-Toxicant
+93-65-2,CC1=C(C=CC(=C1)Cl)OC(C)C(=O)O,Mecoprop,9.0,9c,No Data,,D(MT),34,Toxicant
+55079-83-9,CC1=CC(=C(C(=C1/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C)C)C)OC,Acitretin,3.0,3a-2-1,No Data,,DTer,35,Toxicant
+54350-48-0,CCOC(=O)/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C(=C(C=C1C)OC)C)C,Etretinate,3.0,3a-2-1,No Data,,DTer,36,Toxicant
+71441-28-6,C/C(=C\C1=CC=C(C=C1)C(=O)O)/C2=CC3=C(C=C2)C(CCC3(C)C)(C)C,Arotinoid acid,3.0,3a-2-3,No Data,,DTer,37,Toxicant
+107430-51-3,CC1(CCC(C2=C1C=C3C=CC(=CC3=C2)C4=CC=C(C=C4)C(=O)O)(C)C)C,"Benzoic acid, 4-(5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-2-anthracenyl)-",3.0,3a-2-4,No Data,,DTer,38,Toxicant
+77-36-1,C1=CC=C2C(=C1)C(=O)NC2(C3=CC(=C(C=C3)Cl)S(=O)(=O)N)O,Chlorthalidone,10.0,10a-1,No Data,,D,39,Toxicant
+19523-45-6,C1CC=CC(C1)NC(=O)NS(=O)(=O)C2=CC=C(C=C2)Cl,Chlorcyclamide,10.0,10a-4,No Data,,DTer,40,Toxicant
+36734-19-7,CC(C)NC(=O)N1CC(=O)N(C1=O)C2=CC(=CC(=C2)Cl)Cl,Iprodione,2.0,2b-4-2,R,41,D,41,Toxicant
+54-31-9,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl,Furosemide,10.0,10a-1,No Data,,D,39,Toxicant
+554-57-4,CC(=O)N=C1N(N=C(S1)S(=O)(=O)N)C,Methazolamide,10.0,10a-2,No Data,,DTer,39,Toxicant
+59-66-5,CC(=O)NC1=NN=C(S1)S(=O)(=O)N,Acetazolamide,10.0,10a-2,No Data,,DTer,42,Toxicant
+120-97-8,C1=C(C=C(C(=C1S(=O)(=O)N)Cl)Cl)S(=O)(=O)N,Dichlorphenamide,10.0,10a-1,No Data,,DTer,43,Toxicant
+452-35-7,CCOC1=CC2=C(C=C1)N=C(S2)S(=O)(=O)N,Ethoxzolamide,10.0,10a-2,No Data,,DTer,43,Toxicant
+58-94-6,C1=C2C(=CC(=C1Cl)S(=O)(=O)N)S(=O)(=O)N=CN2,Chlorothiazide,10.0,10a-2,No Evidence,39,D,39,Toxicant
+63-74-1,C1=CC(=CC=C1N)S(=O)(=O)N,Sulfanilamide,10.0,10a-3,RM,39,No Evidence,39,Toxicant
+57-68-1,CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C,Sulfamethazine,10.0,10a-3,No Data,,DTer,39,Toxicant
+68-35-9,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,Sulfadiazine,10.0,10a-3,No Data,,DTer(MT),39,Toxicant
+651-06-9,COC1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,Sulfamethoxine,10.0,10a-3,No Data,,DTer,44,Toxicant
+1220-83-3,COC1=NC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N,Sulfamonomethoxine,10.0,10a-3,No Data,,DTer,44,Toxicant
+3772-76-7,CC1=NC(=CC(=N1)OC)NS(=O)(=O)C2=CC=C(C=C2)N,Sulfamethomidine,10.0,10a-3,No Data,,DTer,44,Toxicant
+80-35-3,COC1=NN=C(C=C1)NS(=O)(=O)C2=CC=C(C=C2)N,Sulfamethoxypyridazine,10.0,10a-3,No Data,,DTer,44,Toxicant
+127-69-5,CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N,Sulfisoxazole,10.0,10a-3,No Data,,DTer,44,Toxicant
+339-43-5,CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)N,Carbutamide,10.0,10a-4,No Data,,DTer,40,Toxicant
+94-20-2,CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl,Chloropropamide,10.0,10a-4,No Data,,DTer,39,Toxicant
+64-77-7,CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C,Tolbutamide,10.0,10a-4,No Data,,DTer,39,Toxicant
+565-33-3,CC1=C(C=C(C=C1)S(=O)(=O)NC(=O)NC2CCCCC2)N,Metahexamide,10.0,10a-4,No Data,,DTer,39,Toxicant
+1156-19-0,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN2CCCCCC2,Tolazamide,10.0,10a-4,No Data,,D,39,Toxicant
+664-95-9,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC2CCCCC2,Glycyclamide,10.0,10a-4,No Data,,No Evidence,45,Toxicant
+15545-48-9,CC1=C(C=C(C=C1)NC(=O)N(C)C)Cl,Chlorotoluron,2.0,2b-4-1,No Evidence,46,D,46,Toxicant
+330-54-1,CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,Diuron,2.0,2b-4-1,No Evidence,47,D,47,Toxicant
+330-55-2,CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC,Linuron,2.0,2b-4-1,RM,48,D(MT),48,NON-Toxicant
+1746-81-2,CN(C(=O)NC1=CC=C(C=C1)Cl)OC,Monolinuron,2.0,2b-4-1,No Data,,DTer(MT),49,NON-Toxicant
+34123-59-6,CC(C)C1=CC=C(C=C1)NC(=O)N(C)C,Isoproteron,2.0,2b-4-1,No Evidence,46,No Evidence,46,Toxicant
+50471-44-8,CC1(C(=O)N(C(=O)O1)C2=CC(=CC(=C2)Cl)Cl)C=C,Vinclozolin,2.0,2b-4-2,R,50,D,50,NON-Toxicant
+32809-16-8,CC12CC1(C(=O)N(C2=O)C3=CC(=CC(=C3)Cl)Cl)C,Procyamidone,2.0,2b-4-2,R,51,D,51,Toxicant
+67747-09-5,CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2,Prochloraz,,,RM,53,D,53,NON-Toxicant
+65277-42-1,CC(=O)N1CCN(CC1)c2ccc(OC[C@H]3CO[C@@](Cn4ccnc4)(O3)c5ccc(Cl)cc5Cl)cc2,Ketoconazole,13.0,13a-1,No Data,,DTer,39,Toxicant
+59-87-0,C1=C(OC(=C1)[N+](=O)[O-])/C=N/NC(=O)N,Nitrofurazone,13.0,13b-2,RM,39,DTer(MT),39,NON-Toxicant
+67-45-8,C1COC(=O)N1/N=C/C2=CC=C(O2)[N+](=O)[O-],Furazolidone,13.0,13b-2,RM,39,No Evidence,39,Toxicant
+443-48-1,CC1=NC=C(N1CCO)[N+](=O)[O-],Metronidazole,13.0,13b-1,RM,39,No Evidence,39,NON-Toxicant
+23256-30-6,CC1CS(=O)(=O)CCN1/N=C/C2=CC=C(O2)[N+](=O)[O-],Nifurtimox,13.0,13b-2,RM,39,D(MT),39,Toxicant
+120116-88-3,CC1=CC=C(C=C1)C2=C(N=C(N2S(=O)(=O)N(C)C)C#N)Cl,Cyazafamid,,,No Evidence,54,D,54,Toxicant
+161326-34-7,C[C@@]1(C(=O)N(C(=N1)SC)NC2=CC=CC=C2)C3=CC=CC=C3,Fenamidone,,,No Evidence,55,D(MT),55,NON-Toxicant
+38083-17-9,CC(C)(C)C(=O)C(N1C=CN=C1)OC2=CC=C(C=C2)Cl,Climbazole,13.0,13a-2,RF(T),56,D(MT),56,Toxicant
+68694-11-1,CCCOCC(=NC1=C(C=C(C=C1)Cl)C(F)(F)F)N2C=CN=C2,Triflumizole,13.0,13a-2,RF,57,D(MT),57,Toxicant
+72459-58-6,C1=CC2=C(C=C1Cl)[N+](=NC(=N2)N3C=CN=C3)[O-],Triazoxide,13.0,13a-2,No Evidence,58,D,58,Toxicant
+35554-44-0,C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl,Enilconazole,13.0,13a-1,R,59,D(MT),59,Toxicant
+13311-84-7,CC(C)C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F,Flutamide,2.0,2b-4-1,RM,39,D,39,Toxicant
+122-42-9,CC(C)OC(=O)NC1=CC=CC=C1,Profam,2.0,2b-4-1,No Evidence,60,No Evidence,60,NON-Toxicant
+17804-35-2,CCCCNC(=O)N1C2=CC=CC=C2N=C1NC(=O)OC,Benomyl,6.0,6b-1,RM,61,DTer,61,Toxicant
+23564-05-8,COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC,Thiophanate methyl,6.0,6b-1-2,RM,61,DTer,61,Toxicant
+10605-21-7,COC(=O)NC1=NC2=CC=CC=C2N1,Carbendazim,6.0,6b-1,RM,61,DTer,61,Toxicant
+53716-50-0,COC(=O)NC1=NC2=C(N1)C=C(C=C2)S(=O)C3=CC=CC=C3,Oxfendazole,6.0,6b-1,R,62,DTer,62,Toxicant
+43210-67-9,COC(=O)NC1=NC2=C(N1)C=C(C=C2)SC3=CC=CC=C3,Fenbendazole,6.0,6b-1,No Data,,DTer,62,NON-Toxicant
+58306-30-2,COCC(=O)NC1=C(C=CC(=C1)SC2=CC=CC=C2)N=C(NC(=O)OC)NC(=O)OC,Febantel,,,No Data,,DTer,62,NON-Toxicant
+148-79-8,C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3,Thiabendazole,6.0,6b-1-1,No Evidence,63,DTer(MT),63,Toxicant
+31431-39-7,COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3,Mebendazole,6.0,6b-1,No Evidence,64,DTer(MT),64,Toxicant
+54965-21-8,CCCSC1=CC2=C(C=C1)N=C(N2)NC(=O)OC,Albendazole,6.0,6b-1,RM,65,DTer(MT),65,Toxicant
+31430-15-6,COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=C(C=C3)F,Flubendazole,6.0,6b-1,No Evidence,66,DTer,67,Toxicant
+57-41-0,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,Dipenylhydantoin,10.0,10b,No Data,,DTer,39,Toxicant
+2784-27-2,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=C(C=C3)O,Hydroxyphenytoin,10.0,10b,No Data,,No Evidence,68,Toxicant
+461-72-3,C1C(=O)NC(=O)N1,Hydantoin,17.0,17b,No Data,,DTer,69,NON-Toxicant
+86-35-1,CCN1C(=O)C(NC1=O)C2=CC=CC=C2,Ethotoin,10.0,10b,No Data,,DTer,69,Toxicant
+50-12-4,CCC1(C(=O)N(C(=O)N1)C)C2=CC=CC=C2,Mephenytoin,10.0,10b,No Data,,D,69,Toxicant
+63-98-9,C1=CC=C(C=C1)CC(=O)NC(=O)N,Phenacemide,10.0,10b,No Data,,D,39,Toxicant
+50-06-6,CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2,Phenobarbital,10.0,10b,RM,39,DTer,39,Toxicant
+125-33-7,CCC1(C(=O)NCNC1=O)C2=CC=CC=C2,Primidone,10.0,10b,No Data,,DTer,39,Toxicant
+150-30-1,C1=CC=C(C=C1)CC(C(=O)O)N,Phenylalanine,11.0,11a,No Data,,D,39,Toxicant
+148-82-3,C1=CC(=CC=C1C[C@@H](C(=O)O)N)N(CCCl)CCCl,Melphalan,11.0,11a,R,70,DTer,70,Toxicant
+305-03-3,C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl,Chlorambucil,9.0,9b,R,"70, 71",DTer,70,Toxicant
+573-58-0,C1=CC=C2C(=C1)C(=CC(=C2N)N=NC3=CC=C(C=C3)C4=CC=C(C=C4)N=NC5=C(C6=CC=CC=C6C(=C5)S(=O)(=O)[O-])N)S(=O)(=O)[O-].[Na+].[Na+],Congo Red,12.0,12b-1,No Evidence,72,D,72-74,Toxicant
+7331-25-1,CC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Br,"2,4-Pyrimidinediamine, 5-(4-bromophenyl)-6-methyl-",12.0,12a-1,No Data,,D,75,Toxicant
+7761-45-7,CC1=C(C(=NC(=N1)N)N)C2=CC(=C(C=C2)Cl)Cl,"2,4-Pyrimidinediamine, 5-(3,4-dichlorophenyl)-6-methyl-",12.0,12a-1,No Data,,D,75,Toxicant
+5355-16-8,COC1=C(C=C(C=C1)CC2=CN=C(N=C2N)N)OC,"2,4-Pyrimidinediamine, 5-[(3,4-dimethoxyphenyl)methyl]-",12.0,12a-1,No Data,,D,75,Toxicant
+738-70-5,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,"2,4-Pyrimidinediamine, 5-[(3,4,5-trimethoxyphenyl)methyl]-",12.0,12a-1,No Data,,DTer,39,Toxicant
+56518-41-3,COC1=CC(=CC(=C1Br)OC)CC2=CN=C(N=C2N)N,"2,4-Pyrimidinediamine, 5-[(4-bromo-3,5-dimethoxyphenyl)methyl]",12.0,12a-1,No Data,,DTer,76,Toxicant
+64-04-0,C1=CC=C(C=C1)CCN,Phenylethylamine,11.0,11a,No Data,,DTer,77,Toxicant
+300-62-9,CC(CC1=CC=CC=C1)N,Amphetamine,11.0,11a,No Data,,D,39,Toxicant
+51-61-6,C1=CC(=C(C=C1CCN)O)O,Dopamine,11.0,11a,No Data,,D,39,Toxicant
+537-46-2,C[C@@H](CC1=CC=CC=C1)NC,Methamphetamine,11.0,11a,No Data,,D,78,NON-Toxicant
+4350-09-8,C1=CC2=C(C=C1O)C(=CN2)C[C@@H](C(=O)O)N,L-5-Hydroxytrytophan,11.0,11a,No Data,,DTer(MT),39,Toxicant
+51-45-6,C1=C(NC=N1)CCN,Histamine,11.0,11a,R,39,No Data,39,NON-Toxicant
+50-67-9,C1=CC2=C(C=C1O)C(=CN2)CCN,Serotonin,11.0,11a,No Data,,DTer,39,Toxicant
+555-30-6,C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)N,Methyldopa,11.0,11a,No Data,,DTer(MT),79,Toxicant
+7683-59-2,CC(C)NCC(C1=CC(=C(C=C1)O)O)O,Isoproterenol,11.0,11a,R,39,DTer,39,Toxicant
+59-42-7,CNC[C@@H](C1=CC(=CC=C1)O)O,Synephrine,11.0,11a,No Data,,No Evidence,39,Toxicant
+51-43-4,CNC[C@@H](C1=CC(=C(C=C1)O)O)O,Epinephrine,11.0,11a,No Data,,DTer,39,Toxicant
+56-75-7,C1=CC(=CC=C1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-],Chloramphenicol,11.0,11a,R,80,DTer,39,Toxicant
+15318-45-3,CS(=O)(=O)C1=CC=C(C=C1)[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O,Thaimphenicol,11.0,11a,RM,81,D,81,Toxicant
+437-38-7,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,Fentanyl,11.0,11a,R,39,D,39,Toxicant
+303-26-4,C1CN(CCN1)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,Norchlorcyclizine,11.0,11b,No Data,,DTer,"39, 82, 83",NON-Toxicant
+23145-88-2,C1CN(CCN1)CC2=CC=C(C=C2)Cl,Norhomochlorcyclizine,11.0,11b,No Data,,DTer,"39, 82",NON-Toxicant
+24342-54-9,CC1=CC=CC=C1C(C2=CC=CC=C2)N3CCNCC3.Cl,Normethylcyclizine HCl,11.0,11b,No Data,,DTer,"39, 82",Toxicant
+848-53-3,CN1CCCN(CC1)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,Homochlorcyclizine,11.0,11b,No Data,,DTer,"39, 82",Toxicant
+841-77-0,C1CN(CCN1)C(C2=CC=CC=C2)C3=CC=CC=C3,Norcyclizine,11.0,11b,No Data,,DTer,"39, 82",Toxicant
+82-93-9,CN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,Chlorcyclizine,11.0,11b,No Data,,DTer,"39, 82, 83",Toxicant
+24342-56-1,CC1=CC=CC=C1C(C2=CC=CC=C2)N3CCN(CC3)C.Cl.Cl,Methylcyclizine,11.0,11b,No Data,,DTer,"39, 82",Toxicant
+24342-57-2,CC(C)(C)N1CCN(CC1)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,Chlorcyclizine-n-t-butyl,11.0,11b,No Data,,DTer,"39, 82",Toxicant
+82-92-8,CN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=CC=C3,Cyclizine,11.0,11b,No Data,,DTer,"39, 82, 83",Toxicant
+68-88-2,C1CN(CCN1CCOCCO)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,Hydroxyzine,11.0,11b,No Data,,DTer,"39, 82, 83",Toxicant
+569-65-3,CC1=CC(=CC=C1)CN2CCN(CC2)C(C3=CC=CC=C3)C4=CC=C(C=C4)Cl,Meclizine,11.0,11b,No Data,,DTer,83,Toxicant
+82-95-1,CC(C)(C)C1=CC=C(C=C1)CN2CCN(CC2)C(C3=CC=CC=C3)C4=CC=C(C=C4)Cl,Buclizine,11.0,11b,No Data,,DTer,83,NON-Toxicant
+1937-37-7,C1=CC=C(C=C1)N=NC2=C(C3=C(C(=C(C=C3C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])N=NC4=CC=C(C=C4)C5=CC=C(C=C5)N=NC6=C(C=C(C=C6)N)N)N)O.[Na+].[Na+],Direct Black 38,12.0,12b-1,No Data,,D,73,Toxicant
+2602-46-2,C1=CC(=CC=C1C2=CC=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+],Direct Blue 6,12.0,12b-1,No Data,,DTer,"72, 73, 84",Toxicant
+72-57-1,CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)C)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+],Trypan blue,12.0,12b-1,No Data,,DTer,84,Toxicant
+314-13-6,CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C3)C(=CC(=C4N)S(=O)(=O)[O-])S(=O)(=O)[O-])O)C)N=NC5=C(C6=C(C=C5)C(=CC(=C6N)S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Na+].[Na+].[Na+].[Na+],Evans Blue,12.0,12b-1,No Data,,DTer,84,Toxicant
+2429-74-5,COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)OC)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+],Direct Blue 15,12.0,12b-1,No Data,,DTer,84,Toxicant
+2610-05-1,COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C3)C(=CC(=C4N)S(=O)(=O)[O-])S(=O)(=O)[O-])O)OC)N=NC5=C(C6=C(C=C5)C(=CC(=C6N)S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Na+].[Na+].[Na+].[Na+],Direct Blue 1,12.0,12b-1,No Data,,DTer,73,Toxicant
+20282-70-6,COC1=C(C=CC(=C1)C2=CC(=C(C=C2)[N+]#N)OC)[N+]#N,Fast Blue B,,,No Data,,No Evidence,73,Toxicant
+3627-06-3,C1=CC(=C(C=C1C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)O)S(=O)(=O)O)N)O)Cl)Cl)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)O)S(=O)(=O)O)N)O,Afridol Blue,12.0,12b-1,No Data,,DTer,84,Toxicant
+331-91-9,CN(C)C1=CC=C(C=C1)N=NC2=CC=CC=C2F,"Benzenamine, 4-[2-(2-fluorophenyl)diazenyl]-N,N-dimethyl-",12.0,12b-3,No Data,,D,86,Toxicant
+150-74-3,CN(C)C1=CC=C(C=C1)N=NC2=CC=C(C=C2)F,"Benzenamine, 4-[2-(4-fluorophenyl)diazenyl]-N,N-dimethyl-",12.0,12b-3,No Data,,D,85,Toxicant
+3010-57-9,CC1=CC=C(C=C1)N=NC2=CC=C(C=C2)N(C)C,"Benzenamine, N,N-dimethyl-4-[2-(4-methylphenyl)diazenyl]-",12.0,12b-3,No Data,,D,85,NON-Toxicant
+332-54-7,CN(C)C1=CC=C(C=C1)N=NC2=CC(=CC=C2)F,"Benzenamine, 4-[2-(3-fluorophenyl)diazenyl]-N,N-dimethyl-",12.0,12b-3,No Data,,D,85,Toxicant
+2058-67-5,CCNC1=CC=C(C=C1)N=NC2=CC=CC=C2,"Benzenamine, N-ethyl-4-(2-phenyldiazenyl)-",12.0,12b-3,No Data,,D,86,NON-Toxicant
+621-90-9,CNC1=CC=C(C=C1)N=NC2=CC=CC=C2,"Benzenamine, N-methyl-4-(2-phenyldiazenyl)-",12.0,12b-3,No Data,,D,85,NON-Toxicant
+328-96-1,CN(C)C1=CC=C(C=C1)N=NC2=CC=CC(=C2)C(F)(F)F,"Benzenamine, N,N-dimethyl-4-[2-[3- (trifluoromethyl)phenyl]diazenyl]-",12.0,12b-3,No Data,,D,85,Toxicant
+7331-26-2,CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Br,"2,4-Pyrimidinediamine, 5-(4-bromophenyl)-6-ethyl-",12.0,12a-1,No Data,,No Evidence,75,Toxicant
+1866-43-9,CC1=NC2=C(C=CN2)C(=N1)NCC3=CC=CC=C3,"4-(Benzylamino)-2-methyl-7H-pyrrolo[2,3-d]pyrimidine",,,No Data,,No Evidence,75,Toxicant
+7331-21-7,CC1=C(C(=NC(=N1)N)N)CC2=CC=C(C=C2)[N+](=O)[O-],"2,4-Pyrimidinediamine, 6-methyl-5-[(4-nitrophenyl)methyl]-",12.0,12a-1,No Data,,No Evidence,75,Toxicant
+7331-20-6,C1=CC(=CC=C1OC2=CN=C(N=C2N)N)Cl,"2,4-Pyrimidinediamine, 5-(4-chlorophenoxy)-",12.0,12a-1,No Data,,No Evidence,75,Toxicant
+7331-19-3,CC1=C(C(=NC(=N1)N)N)OC2=CC=C(C=C2)Cl,"2,4-Pyrimidinediamine, 5-(4-chlorophenoxy)-6-methyl-",12.0,12a-1,No Data,,No Evidence,75,Toxicant
+18588-50-6,CC1=C(C(=NC(=N1)N)N)C2=CC=CC=C2,IEM-687,12.0,12a-1,,,DTer,86,Toxicant
+27653-50-5,CCCC1=C(C(=NC(=N1)N)N)C2=CC=CC=C2,"2,4-Diamino-5-phenyl-6-propyl-pyrimidine",12.0,12a-1,,,DTer,87,Toxicant
+7331-24-0,CCCCCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl,"2,4-Pyrimidinediamine, 5-(4-chlorophenyl)-6-pentyl-",12.0,12a-1,No Data,,D,75,Toxicant
+58-14-0,CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl,Pyrimethamine,12.0,12a-1,RM,39,DTer,39,Toxicant
+59-05-2,CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,Methotrexate,12.0,12a-2,No Data,,DTer,39,Toxicant
+52128-35-5,CC1=C(C=CC2=C1C(=NC(=N2)N)N)CNC3=CC(=C(C(=C3)OC)OC)OC,Trimetrexate,12.0,12a-2,RM,88,DTer,89,Toxicant
+80576-83-6,CCC(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,Edatrexate,12.0,12a-2,No Data,,D(MT),90,NON-Toxicant
+54-62-6,C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=NC(=N3)N)N,Aminopterin,12.0,12a-2,No Data,,DTer,39,Toxicant
+288-88-0,C1=NC=NN1,"1-H-1,2,4-Triazole",13.0,13c-1,No Evidence,"91, 92",D,91,NON-Toxicant
+61-82-5,C1=NNC(=N1)N,Amitrole,13.0,13c-1,R(T),93,D(MT),93,Toxicant
+133855-98-8,C1=CC=C(C(=C1)[C@@H]2[C@@](O2)(CN3C=NC=N3)C4=CC=C(C=C4)F)Cl,Epoxiconazole,13.0,13c-2,No Data,,D,"94, 95",NON-Toxicant
+88671-89-0,CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl,Myclobutanil,13.0,13c-2,R,96,D,96,Toxicant
+60207-90-1,CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl,Propiconazole,13.0,13c-2,No Evidence,96,No Evidence,96,NON-Toxicant
+43121-43-3,CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl,Triadimefon,13.0,13c-3,R,"96, 97",DTer(MT),"96, 97",Toxicant
+107534-96-3,CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O,Tebuconazole,13.0,13c-2,No Evidence,98,DTer(MT),99,Toxicant
+55219-65-3,CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)Cl)O,Triadimenol,13.0,13c-3,No Data,,D(MT),97,Toxicant
+55179-31-2,CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)C3=CC=CC=C3)O,Biertanol,13.0,13c-3,No Data,,D(MT),97,Toxicant
+85509-19-9,C[Si](CN1C=NC=N1)(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F,Flusilazole,13.0,13c-4,No Evidence,100,D,"97, 100",NON-Toxicant
+94361-06-5,CC(C1CC1)C(CN2C=NC=N2)(C3=CC=C(C=C3)Cl)O,Cyproconazole,13.0,13c-2,No Data,,DTer,97,Toxicant
+114369-43-6,C1=CC=C(C=C1)C(CCC2=CC=C(C=C2)Cl)(CN3C=NC=N3)C#N,Fenbuconazole,13.0,13c-2,No Data,,DTer,97,Toxicant
+66246-88-6,CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl,Penconazole,13.0,13c-2,No Data,,D,97,Toxicant
+86386-73-4,C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O,Fluconazole,13.0,13c-2,No Data,,DTer(MT),39,Toxicant
+4342-03-4,CN(C)/N=N/C1=C(NC=N1)C(=O)N,Dacarbazine,12.0,12d,No Data,,DTer,39,NON-Toxicant
+50-32-8,C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,Benzo(a)Pyrene,3.0,3b-3,RF,101,DTer,101,Toxicant
+91-64-5,C1=CC=C2C(=C1)C=CC(=O)O2,Coumarin,14.0,14a,No Data,,D,39,Toxicant
+298-81-7,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,Methoxalen,14.0,14a,No Data,,DTer,39,NON-Toxicant
+81-81-2,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O,Warfarin,14.0,14a,No Data,,DTer,39,Toxicant
+66-76-2,C1=CC=C2C(=C1)C(=C(C(=O)O2)CC3=C(C4=CC=CC=C4OC3=O)O)O,Dicumarol,14.0,14a,No Data,,DTer,39,Toxicant
+83-12-5,C1=CC=C(C=C1)C2C(=O)C3=CC=CC=C3C2=O,Phenindione,15.0,15h,No Data,,D,39,Toxicant
+548-00-5,CCOC(=O)C(C1=C(C2=CC=CC=C2OC1=O)O)C3=C(C4=CC=CC=C4OC3=O)O,Ethyl biscoumacetate,14.0,14a,No Data,,D,39,Toxicant
+479-13-0,C1=CC2=C(C=C1O)OC3=C2C(=O)OC4=C3C=CC(=C4)O,Coumestral,14.0,14a,RF,102,No Data,,Toxicant
+50-35-1,C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O,Thalidomide,14.0,14b-1-1,No Data,,DTer,"39, 103",Toxicant
+19143-28-3,COC(=O)CCC(C(=O)N)N1C(=O)C2=CC=CC=C2C1=O,"Glutaramic acid, 4-phthalimido-, methylester, DL-",14.0,14b-1-1,No Data,,DTer,104,Toxicant
+26581-81-7,C1CC(=O)NC(=O)C1N2CC3=CC=CC=C3C2=O,EM-12,14.0,14b-1-2,No Data,,DTer,106,Toxicant
+26581-91-9,C1C(CC(=O)NC1=O)N2CC3=CC=CC=C3C2=O,EM-16,14.0,14b-1-2,No Data,,No Evidence,16,Toxicant
+4292-56-2,C1=CC=C2C(=C1)C(=O)N(C2=O)C(CCC(=O)O)C(=O)N,4-Phthalimidoglutaramic acid,14.0,14b-1-1,No Data,,DTer,107,Toxicant
+4702-13-0,C1=CC=C2C(=C1)C(=O)N(C2=O)CC(=O)O,N-Phthalylglycine (I),14.0,14b-1-1,No Data,,DTer,108,NON-Toxicant
+3130-75-4,C1=CC=C2C(=C1)C(=O)N(C2=O)CCCC(=O)O,4-Phthalimidobutyric acid,14.0,14b-1-1,No Data,,DTer,108,Toxicant
+19171-18-7,C1CC(=O)NC(=O)C1N2C(=O)C3=C(C2=O)C(=CC=C3)[N+](=O)[O-],4-Nitrothalidomide,14.0,14b-1-1,No Data,,DTer,103,Toxicant
+19171-19-8,C1CC(=O)NC(=O)C1N2C(=O)C3=C(C2=O)C(=CC=C3)N,4-Aminothalidomide,14.0,14b-1-1,No Data,,DTer,103,Toxicant
+19246-22-1,C1CCC2C(C1)C(=O)N(C2=O)C3CCC(=O)NC3=O,Dl-Hexahdrothalidomide,,,No Data,,No Evidence,103,Toxicant
+19246-23-2,C1CC(=O)NC(=O)C1N2C(=O)CCC2=O,dl-3’-Succinimidoglutarimide,,,No Data,,No Evidence,103,NON-Toxicant
+4935-96-0,C1=CC=C2C(=C1)C(=O)N(C2=O)CC(=O)N,2-Phthalimidoacetamide,14.0,14b-1-1,No Data,,No Evidence,103,Toxicant
+1515-72-6,CCCCN1C(=O)C2=CC=CC=C2C1=O,N-Butylphthalimide,14.0,14b-1-1,No Data,,D,103,Toxicant
+7607-72-9,C1=CC=C2C(=C1)C(=O)N(C2=O)C(CCC(=O)N)C(=O)O,2-Phthalamidoglutaramic acid,14.0,14b-1-1,No Data,,No Evidence,103,Toxicant
+19171-27-8,C1=CC=C2C(=C1)C(=O)N(C2=O)C3=CN=CC=C3,3-Phthalimidopyridine,14.0,14b-1-1,No Data,,No Evidence,103,Toxicant
+3343-28-0,C1CC(=O)OC(=O)C1N2C(=O)C3=CC=CC=C3C2=O,2-Phthalimidoglutaric acid anhydride,14.0,14b-1-1,No Data,,No Evidence,103,Toxicant
+3459-33-4,C1=CC=C2C(=C1)C(=O)N(C2=O)CCCC(=O)N,4-Phthalimidobutyaramide,14.0,14b-1-1,No Data,,DTer,103,Toxicant
+520-03-6,C1=CC=C(C=C1)N2C(=O)C3=CC=CC=C3C2=O,Phthalimidobenzene,14.0,14b-1-1,No Data,,DTer,103,Toxicant
+191732-72-6,C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N,Lenalidomide,14.0,14b-1-2,No Data,,DTer(MT),109,Toxicant
+49785-74-2,C1CC(C(=O)NC1)N2C(=O)C3=CC=CC=C3S2(=O)=O,Supidimide,,,No Data,,No Evidence,110,Toxicant
+550-44-7,CN1C(=O)C2=CC=CC=C2C1=O,N-Methyl pthalimide,14.0,14b-1-1,No Data,,D,111,Toxicant
+41663-84-7,CN1C(=O)C2=C(C1=O)C=C(C=C2)[N+](=O)[O-],4-Nitro-N-methylphthalimide,14.0,14b-1-1,No Data,,D,112,Toxicant
+85-41-6,C1=CC=C2C(=C1)C(=O)NC2=O,Phthalimide,14.0,14b-1-1,No Data,,DTer,"14, 113",Toxicant
+16477-31-9,C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3S2(=O)=O,"2,6-Piperidinedione, 3-(3-oxo-1,2- benzisothiazol-2(3H)-yl)-, S,S-dioxide",,,No Data,,No Evidence,107,Toxicant
+79458-80-3,C1CC(C(=O)NC1)N2CC3=CC=CC=C3C2=O,"1H-Isoindol-1-one, 2,3-dihydro-2-(2-oxo-3-piperidinyl)-",14.0,14b-1-2,No Data,,DTer,107,Toxicant
+4388-29-8,C1=CC=C2C(=C1)C(=O)N(C2=O)N3C(=O)C4=CC=CC=C4C3=O,Phthalimidophthalimide,14.0,14b-1-1,No Data,,No Evidence,114,Toxicant
+42406-53-1,C1=CC=C2C(=C1)C(=O)N(C2=O)C(CC(=O)O)C(=O)O,N-Phthaloyl-L-aspartic acid (L-I),14.0,14b-1-1,No Data,,DTer,115,Toxicant
+62249-41-6,C1=CC=C2C(=C1)C(=O)N(C2=O)[C@H](CC(=O)O)C(=O)O,N-Phthaloyl-D-aspartic acid (D-I),14.0,14b-1-1,No Data,,No Evidence,115,Toxicant
+340-90-9,C1=CC=C2C(=C1)C(=O)N(C2=O)[C@@H](CCC(=O)O)C(=O)O,N-Phthalyl-L-glutamic acid (I),14.0,14b-1-1,No Data,,DTer,115,Toxicant
+22911-88-2,C1=CC=C2C(=C1)C(=O)N(C2=O)[C@H](CCC(=O)O)C(=O)O,N-Phthaloyl-D-glutamic acid,14.0,14b-1-1,No Data,,No Evidence,115,Toxicant
+439-14-5,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,Diazepam,14.0,14b-3-1,No Evidence,116,DTer,39,Toxicant
+1622-62-4,CN1C(=O)CN=C(C2=C1C=CC(=C2)[N+](=O)[O-])C3=CC=CC=C3F,Flunitrazepam,14.0,14b-3-1,No Data,,DTer,39,Toxicant
+1622-61-3,C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3Cl,Clonazepam,14.0,14b-3-1,No Data,,D,39,Toxicant
+604-75-1,C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O,Oxazepam,14.0,14b-3-1,No Data,,No Evidence,39,Toxicant
+846-49-1,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl,Lorazepam,14.0,14b-3-1,No Evidence,39,DTer,39,Toxicant
+846-50-4,CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3,Temazepam,14.0,14b-3-1,No Data,,D,39,Toxicant
+28981-97-7,CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4,Alprazolam,14.0,14b-3-2,No Data,,DTer,39,Toxicant
+303-49-1,CN(C)CCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl,Clomipramine,14.0,14c-3,No Data,,D,39,Toxicant
+1668-19-5,CN(C)CCC=C1C2=CC=CC=C2COC3=CC=CC=C31,Doxepin,14.0,14c-1,No Data,,No Evidence,39,Toxicant
+113-53-1,CN(C)CC/C=C\1/C2=CC=CC=C2CSC3=CC=CC=C31,Dosulepin,14.0,14c-1,No Data,,No Evidence,39,Toxicant
+23047-25-8,CN(CCCN1C2=CC=CC=C2CCC3=CC=CC=C31)CC(=O)C4=CC=C(C=C4)Cl,Lofepramine,14.0,14c-3,No Data,,D(MT),39,Toxicant
+739-71-9,CC(CN1C2=CC=CC=C2CCC3=CC=CC=C31)CN(C)C,Trimipramine,14.0,14c-3,R,39,DTer,39,Toxicant
+129-03-3,CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1,Cypro heptadine,14.0,14c-2,No Data,,DTer,39,NON-Toxicant
+10262-69-8,CNCCCC12CCC(C3=CC=CC=C31)C4=CC=CC=C24,Maptrotiline,,,No Data,,No Evidence,39,NON-Toxicant
+85650-52-8,CN1CCN2C(C1)C3=CC=CC=C3CC4=C2N=CC=C4,Mirtazapine,14.0,14c-5,RF,39,D,39,Toxicant
+117-89-5,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F,Triluoperazine,14.0,14c-4,R,39,DTer,39,Toxicant
+69-09-0,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl.Cl,Chlorpromazine,14.0,14c-4,R,39,DTer,39,Toxicant
+60-87-7,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C,Promethazine,14.0,14c-4,No Data,,No Evidence,39,Toxicant
+58-39-9,C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl)CCO,Perphenazine,14.0,14c-4,R,39,DTer,39,Toxicant
+50-52-2,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)SC,Thioridazine,14.0,14c-4,R,39,DTer,39,Toxicant
+72-69-5,CNCCC=C1C2=CC=CC=C2CCC3=CC=CC=C31,Nortriptyline,14.0,14c-1,No Data,,DTer,39,Toxicant
+438-60-8,CNCCCC1C2=CC=CC=C2C=CC3=CC=CC=C13,Protriptyline,14.0,14c-1,No Evidence,39,D,39,Toxicant
+50-47-5,CNCCCN1C2=CC=CC=C2CCC3=CC=CC=C31,Desipramine,14.0,14c-3,No Data,,D,39,Toxicant
+50-49-7,CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31,Imipramine,14.0,14c-3,No Data,,D,39,Toxicant
+50-48-6,CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31,Amitriptyline,14.0,14c-1,No Data,,DTer,39,Toxicant
+14028-44-5,C1CN(CCN1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl,Amoxapine,14.0,14c-5,R,39,D,39,Toxicant
+60-54-8,C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,Tetracycline,14.0,14d-1,No Data,,D,39,Toxicant
+2058-46-0,C[C@@]1([C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O.Cl,Oxytetracyclin,14.0,14d-1,No Data,,DTer,"39, 117",Toxicant
+13614-98-7,CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C.Cl,Minocyclin,14.0,14d-1,No Data,,DTer,39,Toxicant
+127-33-3,CN(C)[C@H]1[C@@H]2C[C@@H]3[C@@H](C4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)Cl)O,Demeclocycline,14.0,14d-1,No Data,,DTer,39,Toxicant
+25316-40-9,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O.Cl,Doxorubicin HCl,14.0,14d-2,RM,39,DTer,39,Toxicant
+58957-92-9,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O,Idarubicin,14.0,14d-2,RM,39,DTer,39,Toxicant
+56420-45-2,C[C@H]1[C@@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O,Epirubicin,14.0,14d-2,No Data,,DTer,118,Toxicant
+20830-81-3,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O,Daunorubicin,14.0,14d-2,No Data,,DTer,119,Toxicant
+110267-81-7,CC(=O)[C@]1(C[C@@H](C2=C(C1)C(=C3C(=C2O)C(=O)C4=CC=CC=C4C3=O)O)O[C@H]5C[C@@H]([C@@H](CO5)O)O)N,Amrubicin,14.0,14d-2,R,39,DTer,39,Toxicant
+140637-82-7,C[C@H]1[C@H]([C@H]([C@H]([C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)COC(=O)CCN)O)F)O)O.Cl,DA-125,14.0,14d-2,RM,120,DTer,39,Toxicant
+33419-42-0,C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O,Etoposide,6.0,6b-2,RM,39,DTer,39,Toxicant
+76-57-3,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O,Codeine,6.0,6a-1,No Data,,D(MT),39,Toxicant
+57-27-2,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O,Morphine,6.0,6a-1,RM,39,DTer,39,Toxicant
+115-37-7,CN1CC[C@]23[C@@H]4C(=CC=C2[C@H]1CC5=C3C(=C(C=C5)OC)O4)OC,Thebaine,6.0,6a-1,No Data,,DTer,39,Toxicant
+466-99-9,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3C(=O)CC4,Hydromorphone,6.0,6a-1,No Data,,DTer,39,Toxicant
+125-29-1,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3C(=O)CC4,Hydrocodone,6.0,6a-1,RM,121,D(MT),"39, 122",Toxicant
+76-41-5,CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O,Oxymorphone,6.0,6a-1,RF,123,D(MT),39,Toxicant
+20594-83-6,C1CC(C1)CN2CC[C@]34[C@@H]5[C@H](CC[C@]3([C@H]2CC6=C4C(=C(C=C6)O)O5)O)O,Nalbuphine,6.0,6a-1,No Data,,No Evidence,39,Toxicant
+52485-79-7,C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)(C(C)(C)C)O,Buprenorphine,6.0,6a-2,No Data,,D(MT),39,Toxicant
+42408-82-2,C1CC[C@]2([C@H]3CC4=C([C@]2(C1)CCN3CC5CCC5)C=C(C=C4)O)O,Butorphanol,6.0,6a-6,No Data,,D,39,Toxicant
+465-65-6,C=CCN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O,Naloxone,6.0,6a-1,No Data,,D,39,NON-Toxicant
+3572-80-3,CC1C2CC3=C(C1(CCN2CC4CC4)C)C=C(C=C3)O,Cyclazocine,6.0,6a-3,No Evidence,124,No Evidence,124,Toxicant
+359-83-1,C[C@H]1[C@H]2CC3=C([C@@]1(CCN2CC=C(C)C)C)C=C(C=C3)O,Pentazocine,6.0,6a-4,No Evidence,"29, 125",D,"39, 125",Toxicant
+21256-18-8,C1=CC=C(C=C1)C2=C(OC(=N2)CCC(=O)O)C3=CC=CC=C3,Oxaprozin,9.0,9b,RF,39,D,39,NON-Toxicant
+38194-50-2,CC\1=C(C2=C(/C1=C\C3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Sulindac,9.0,9a,RF,39,D,39,Toxicant
+26171-23-3,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O,Tolmetin,9.0,9b,RF,39,D,39,Toxicant
+122647-31-8,CCCCCCCN(CC)CCCC(C1=CC=C(C=C1)NS(=O)(=O)C)O,Ibutilide,5.0,5a-1,No Data,,D,67,Toxicant
+136075-60-0,CS(=O)(=O)NC1=CC2=C(C=C1)OC3(CCN(CC3)CCC4=CC5=NON=C5C=C4)CC2=O.Cl,L 691121,5.0,5a-1,No Data,,D,67,Toxicant
+115256-11-6,CN(CCC1=CC=C(C=C1)NS(=O)(=O)C)CCOC2=CC=C(C=C2)NS(=O)(=O)C,Dofetilide,5.0,5a-1,No Data,,D,67,Toxicant
+3930-20-9,CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O,Sotalol,11.0,11a,No Data,,D,67,NON-Toxicant
+1951-25-3,CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I,Amiodarone,5.0,5a-1,R,39,D,39,Toxicant
+81098-60-4,CO[C@H]1CN(CC[C@H]1NC(=O)C2=CC(=C(C=C2OC)N)Cl)CCCOC3=CC=C(C=C3)F,Cisapride,5.0,5a-1,R,39,Dter,39,Toxicant
+68844-77-9,COC1=CC=C(C=C1)CCN2CCC(CC2)NC3=NC4=CC=CC=C4N3CC5=CC=C(C=C5)F,Astemizole,11.0,11a,No Data,,D,39,Toxicant
+51-55-8,CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)C(CO)C3=CC=CC=C3,Atropine,4.0,4a-1,RM,39,D(MT),39,NON-Toxicant
+186691-13-4,C[N+]1([C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)C(C4=CC=CS4)(C5=CC=CS5)O)C,Tiotropium,4.0,4a-1,No Data,,D,39,NON-Toxicant
+60205-81-4,CC(C)[N+]1([C@@H]2CC[C@H]1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C,Ipratropium,4.0,4a-1,No Evidence,39,D,126,Toxicant
+51-34-3,CN1[C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@H](CO)C4=CC=CC=C4,Scopolamine,4.0,4a-1,No Data,,D(MT),127,Toxicant
+114-49-8,CN1[C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@H](CO)C4=CC=CC=C4.Br,Scopolamine Hydrobromide,4.0,4a-1,No Data,,D(MT),127,Toxicant
+596-51-0,C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-],Glycopyrrolate,4.0,4a-1-1,No Evidence,128,No Evidence,128,NON-Toxicant
+22204-53-1,C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Naproxen,9.0,9b,RF,39,D,"39, 129, 130",Toxicant
+15307-86-5,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,Diclofenac,9.0,9a,RF,39,D,39,Toxicant
+41340-25-4,CCC1=C2C(=CC=C1)C3=C(N2)C(OCC3)(CC)CC(=O)O,Etodolac,9.0,9b,RF,39,D,"39, 130",Toxicant
+31879-05-7,CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)O,Fenoprofen,9.0,9a,RF,39,D,39,Toxicant
+15687-27-1,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Ibuprofen,9.0,9a,R,39,D,39,Toxicant
+53-86-1,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Indomethacin,9.0,9b,No Data,,DTer,39,NON-Toxicant
+22071-15-4,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,Ketoprofen,9.0,9a,No Data,,D,130,Toxicant
+42924-53-8,CC(=O)CCC1=CC2=C(C=C1)C=C(C=C2)OC,Nabumetone,9.0,9a,No Data,,D,39,Toxicant
+64-86-8,CC(=O)N[C@H]1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC,Colchicine,6.0,6b-3,RM,131,DTer,39,Toxicant
+518-28-5,COC1=CC(=CC(=C1OC)OC)[C@H]2[C@@H]3[C@H](COC3=O)[C@H](C4=CC5=C(C=C24)OCO5)O,Podophyllotoxin,6.0,6b-2,RM,132,D,39,Toxicant
+865-21-4,CC[C@@]1(C[C@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O,Vinblastine,6.0,6b-3,RM,133,D,39,Toxicant
+57-22-7,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O,Vincristine,6.0,6b-3,RM,134,D,39,Toxicant
+71486-22-1,CCC1=C[C@H]2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC,Vinorelbine,6.0,6b-3,RM,39,D,39,Toxicant
+329-89-5,C1=CC(=NC=C1C(=O)N)N,6-Aminonicotinamide,15.0,15b,No Data,,DTer,135,NON-Toxicant
+54-11-5,CN1CCC[C@H]1C2=CN=CC=C2,Nicotine,4.0,4a-3,No Data,,D,"39, 136",NON-Toxicant
+77-10-1,C1CCC(CC1)(C2=CC=CC=C2)N3CCCCC3,Phencyclidine,15.0,15e,No Data,,DTer(MT),"39, 137",Toxicant
+6740-88-1,CNC1(CCCCC1=O)C2=CC=CC=C2Cl,Ketamine,15.0,15f,No Data,,D(MT),39,Toxicant
+548-62-9,CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=C(C=C3)N(C)C.[Cl-],Gentian violet,12.0,12c,No Data,,DTer(MT),138,Toxicant
+3844-45-9,CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=CC=C5S(=O)(=O)[O-].[Na+].[Na+],Brilliant Blue FCF,12.0,12c,No Evidence,139,No Evidence,139,Toxicant
+3087-16-9,CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=C4C=CC(=CC4=CC(=C3O)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+],Green S,12.0,12c,No Evidence,140,No Evidence,140,Toxicant
+154-21-2,CCC[C@@H]1C[C@H](N(C1)C)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)O)O)O)[C@@H](C)O,Lincomycin,16.0,16d-3,No Data,,D,"39, 141",NON-Toxicant
+79548-73-5,CC[C@@H]1CCN[C@@H](C1)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)O)O)O)[C@H](C)Cl,Pirlimycin,16.0,16d-3,No Data,,D(MT),39,NON-Toxicant
+18323-44-9,CCC[C@@H]1C[C@H](N(C1)C)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)O)O)O)[C@H](C)Cl,Clindamycin,16.0,16d-3,No Data,,No Evidence,39,NON-Toxicant
+37517-28-5,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1NC(=O)[C@H](CCN)O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)O)N,Amikacin,16.0,16d-1,No Data,,D,39,Toxicant
+58152-03-7,C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H]([C@H]([C@@H]2O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)O)N)NC(=O)[C@H](CN)O)O,Isepamicin,16.0,16d-1,No Evidence,"143, 144",D,"39, 144",Toxicant
+34493-98-6,C1C[C@H]([C@H](O[C@@H]1CN)O[C@@H]2[C@H](C[C@H]([C@@H]([C@H]2O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O)N)N)N,Dibekacin,16.0,16d-1,No Data,,DTer,"39, 145",Toxicant
+56391-56-1,CCN[C@@H]1C[C@@H]([C@H]([C@@H]([C@H]1O[C@@H]2[C@@H]([C@H]([C@@](CO2)(C)O)NC)O)O)O[C@@H]3[C@@H](CC=C(O3)CN)N)N,Netilmicin,16.0,16d-1,No Evidence,39,D,"39, 147-149",Toxicant
+32986-56-4,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H](C[C@@H]([C@H](O3)CN)O)N)N,Tobramycin,16.0,16d-1,No Data,,D,39,Toxicant
+32385-11-8,C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H]([C@H]([C@@H]2O)O[C@@H]3[C@@H](CC=C(O3)CN)N)N)N)O,Sisomicin,16.0,16d-1,No Evidence,149-155,No Evidence,149-155,Toxicant
+59-01-8,C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O)N,Kanamycin,16.0,16d-1,No Data,,D,39,Toxicant
+1403-66-3,CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)NC,Gentamicin,16.0,16d-1,RM,39,D,39,Toxicant
+57-92-1,C[C@H]1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)N=C(N)N)O)N=C(N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CO)O)O)NC)(C=O)O,Streptomycin,16.0,16d-2,No Evidence,157,D,39,Toxicant
+378-44-9,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C,Betamethasone,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+50-24-8,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O,Prednisolone,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+51333-22-3,CCCC1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@@]5([C@H]4[C@H](C[C@@]3([C@@]2(O1)C(=O)CO)C)O)C,Budesonide,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+124-94-7,C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)CO)O)O)CCC4=CC(=O)C=C[C@@]43C)F)O,Triamcinolone,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+54063-32-0,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3(C(=O)C[C@@]2([C@]1(C(=O)CCl)O)C)F)C,Clobetasone,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+2607-06-9,C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@H]1C(=O)CO)C)O)F)C)F,Diflucortolone,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+152-97-6,C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@H]3[C@H](C[C@@]2([C@H]1C(=O)CO)C)O)C)F,Fluocortolone,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+3385-03-3,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)C[C@@H](C5=CC(=O)C=C[C@]35C)F)O,Flunisolide,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+23674-86-4,CCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2C[C@@H](C4=CC(=O)C=C[C@@]43C)F)F)O)C)C(=O)COC(=O)C,Difluprednate,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+90566-53-3,C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)SCF)O)C)O)F)C)F,Fluticasone,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+64-85-7,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)CO)CCC4=CC(=O)CC[C@]34C,Desoxycorticosterone,2.0,2a-3,No Data,,DTer,"39, 158",Toxicant
+521-18-6,C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4O)C,Dihydrotestosterone,2.0,2a-4,R,39,D,39,Toxicant
+84371-65-3,CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)N(C)C)C)O,Mifepristone,2.0,2a-4,No Data,,D,39,Toxicant
+53-06-5,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2C(=O)C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C,Cortisone,2.0,2a-2,No Data,,DTer,"39, 158",Toxicant
+50-23-7,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O,Hydrocortisone,2.0,2a-2,No Data,,DTer,39,Toxicant
+50-22-6,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@H]4C(=O)CO)C)O,Corticosterone,2.0,2a-2,No Data,,DTer,39,Toxicant
+50-02-2,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C,Dexamethasone,2.0,2a-2,No Data,,DTer,39,Toxicant
+52-01-7,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@@]2([C@@H]3[C@@H]1[C@@H]4CC[C@]5([C@]4(CC3)C)CCC(=O)O5)C,Spironolactone,2.0,2a-2,R,39,D,39,Toxicant
+107724-20-9,C[C@]12CCC(=O)C=C1C[C@H]([C@@H]3[C@]24[C@H](O4)C[C@]5([C@H]3CC[C@@]56CCC(=O)O6)C)C(=O)OC,Eplerenone,2.0,2a-3,No Data,,No Evidence,39,Toxicant
+57-83-0,CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,Progesterone,2.0,2a-3,RM,2,D,2,Toxicant
+152-62-5,CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@@H]3[C@H]2C=CC4=CC(=O)CC[C@@]34C)C,Dydrogesterone,2.0,2a-3,No Evidence,159,No Evidence,159,Toxicant
+68-96-2,CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O,17-Hydroxyprogesterone,2.0,2a-3,RM,"160, 161",No Data,"160, 161",Toxicant
+71-58-9,CC(O[C@@]([C@]12C)(CC[C@@]1([H])[C@@](C[C@H](C)C3=CC4=O)([H])[C@]([C@]3(CC4)C)([H])CC2)C(C)=O)=O,Medroxyprogesterone acetate,2.0,2a-3,RM,39,DTer,39,Toxicant
+595-33-5,CC1=C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=CC(=O)CC4)C,Megestrol acetate,2.0,2a-3,No Data,,D,39,Toxicant
+302-22-7,CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)Cl)C)OC(=O)C,Chlormadinone acetate,2.0,2a-3,R,162,D,163,Toxicant
+427-51-0,CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)OC(=O)C,Cyproterone acetate,2.0,2a-3,R,39,D,39,Toxicant
+2098-66-0,CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)[C@@H]5C[C@@H]5[C@]34C)Cl)C)O,Cyproterone,2.0,2a-3,R,39,D,39,Toxicant
+13698-49-2,CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)C=C[C@]34C)Cl)C)OC(=O)C,Delmadinone acetate,2.0,2a-3,R,39,D,39,Toxicant
+1253-28-7,CCCCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C)C(=O)C,Gestonorone caproate,2.0,2a-3,R,"164, 165",No Data,,Toxicant
+58-22-0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C,Testosterone,2.0,2a-4,R,39,D,39,Toxicant
+58-18-4,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C,17-Methyltestosterone,2.0,2a-4,R,39,D,39,Toxicant
+434-03-7,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C#C)O)C,Ethisterone,2.0,2a-4,R,166,D,39,Toxicant
+434-22-0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@H]34,Nandrolone (19-nortestosterone),2.0,2a-4,R,"167, 168",D,39,Toxicant
+68-22-4,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34,Norethisterone,2.0,2a-4,R,39,D,39,Toxicant
+10161-33-8,C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@@H]2O,Trenbolone,2.0,2a-4,R,169,D,170,Toxicant
+850-52-2,C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(CC=C)O,Altrenogest,2.0,2a-4,R,171,No Evidence,171,Toxicant
+17230-88-5,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC5=C(C[C@]34C)C=NO5,Danazol,2.0,2a-4,No Data,,D,39,Toxicant
+65928-58-7,C[C@]12CCC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(CC#N)O,Dienogest,2.0,2a-4,RF,39,No Data,,Toxicant
+77-47-4,C1(=C(C(C(=C1Cl)Cl)(Cl)Cl)Cl)Cl,Hexachlorocyclopentadiene,16.0,16f-1,No Evidence,172,No Evidence,172,NON-Toxicant
+76-44-8,C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,Heptachlor,16.0,16f-4,R,173,D,173,NON-Toxicant
+1024-57-3,[C@@H]12[C@@H]([C@H]([C@@H]3[C@H]1O3)Cl)[C@]4(C(=C([C@@]2(C4(Cl)Cl)Cl)Cl)Cl)Cl,Heptachlor epoxide,16.0,16f-4,R,173,D,173,Toxicant
+309-00-2,C1[C@@H]2C=C[C@H]1[C@H]3[C@@H]2[C@]4(C(=C([C@@]3(C4(Cl)Cl)Cl)Cl)Cl)Cl,Aldrin,16.0,16f-4,R,174,D,174,NON-Toxicant
+60-57-1,C1[C@@H]2[C@H]3[C@@H]([C@H]1[C@H]4[C@@H]2O4)[C@]5(C(=C([C@@]3(C5(Cl)Cl)Cl)Cl)Cl)Cl,Dieldrin,16.0,16f-4,R,174,D,174,Toxicant
+72-20-8,C1[C@@H]2[C@@H]3[C@H]([C@H]1[C@H]4[C@@H]2O4)[C@@]5(C(=C([C@]3(C5(Cl)Cl)Cl)Cl)Cl)Cl,Endrin,16.0,16f-4,No Evidence,175,D,175,Toxicant
+12789-03-6,C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,Chlordane,16.0,16f-4,R,176,D,176,NON-Toxicant
+115-29-7,C1C2C(COS(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,Endosulfan,16.0,16f-4,RM,177,D(MT),177,Toxicant
+2385-85-5,C12(C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl,Mirex,16.0,16f-5,RF,178,DTer,178,NON-Toxicant
+143-50-0,C1(=O)C2(C3(C4(C1(C5(C2(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl,Chlordecone,16.0,16f-5,R,178,D,178,Toxicant
+57-43-2,CCC1(C(=O)NC(=O)NC1=O)CCC(C)C,Amobarbital,17.0,17a-1,No Data,,DTer,39,Toxicant
+76-73-3,CCCC(C)C1(C(=O)NC(=O)NC1=O)CC=C,Secobarbital,17.0,17a-1,No Data,,D,39,Toxicant
+309-43-3,CCCC(C)C1(C(=O)NC(=O)[N-]C1=O)CC=C.[Na+],Secobarbital sodium,17.0,17a-1,No Data,,DTer,39,Toxicant
+77-26-9,CC(C)CC1(C(=O)NC(=O)NC1=O)CC=C,Butalbital,17.0,17a-1,No Data,,D,39,Toxicant
+57-33-0,[Na+].CCCC(C)C1(CC)C(=O)NC(=NC1=O)[O-],Pentobarbital sodium,17.0,17a-1,No Data,,DTer,39,Toxicant
+50-91-9,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)CO)O,Floxuridine,7.0,7a,No Data,,DTer,179-181,Toxicant
+10356-76-0,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=NC2=O)N)F)CO)O,5-Fluoro-2'-deoxycytidine,7.0,7a,No Data,,DTer,182,Toxicant
+50-90-8,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)Cl)CO)O,5-Chloro-2'-deoxyuridine,7.0,7a,No Data,,DTer,183,Toxicant
+59-14-3,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)Br)CO)O,Bromodeoxyuridine,7.0,7a,RM,184,DTer,"185, 186",Toxicant
+54-42-2,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)I)CO)O,Idoxuridine,7.0,7a,No Data,,DTer,187,Toxicant
+3056-17-5,CC1=CN(C(=O)NC1=O)[C@H]2C=C[C@H](O2)CO,Stavudine,7.0,7a,No Data,,D,188,Toxicant
+147-94-4,C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O,Cytarabine,7.0,7a,No Data,,DTer,189,Toxicant
+7481-89-2,C1C[C@@H](O[C@@H]1CO)N2C=CC(=NC2=O)N,Zalcitabine,7.0,7a,No Data,,DTer,190,NON-Toxicant
+1022-79-3,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=NC2=O)N)Br)CO)O,Bromodeoxycytidine,7.0,7a,No Data,,DTer,191,Toxicant
+320-67-2,C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N,Azacitidine,7.0,7a,RM,192,DTer,193,NON-Toxicant
+2353-33-5,C1[C@@H]([C@H](O[C@H]1N2C=NC(=NC2=O)N)CO)O,Decitabine,7.0,7a,RM,194,DTer,195,NON-Toxicant
+31698-14-3,C1=CN2[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)OC2=NC1=N,Ancitabine,7.0,7a,No Data,,DTer,39,Toxicant
+73-24-5,C1=NC2=NC=NC(=C2N1)N,Adenine,7.0,7b-2,No Evidence,196,D,196,Toxicant
+73-40-5,C1=NC2=C(N1)C(=O)NC(=N2)N,Guanine,7.0,7b-1,No Evidence,196,D,196,Toxicant
+958-09-8,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)CO)O,Deoxyadenosine,7.0,7b-2,No Data,,D,197,Toxicant
+134-58-7,C12=NNN=C1N=C(NC2=O)N,Azaguanine,7.0,7b-1,No Data,,D,198,Toxicant
+58-08-2,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Caffeine,7.0,7b-1,No Data,,D(MT),199,Toxicant
+83-67-0,CN1C=NC2=C1C(=O)NC(=O)N2C,Theobromine,7.0,7b-1,RM,200,DTer,199,Toxicant
+58-55-9,CN1C2=C(C(=O)N(C1=O)C)NC=N2,Theophylline,7.0,7b-1,R,201,DTer,201,Toxicant
+154-42-7,C1=NC2=C(N1)C(=S)N=C(N2)N,Thioguanine,7.0,7b-1,No Data,,DTer,39,Toxicant
+50-44-2,C1=NC2=C(N1)C(=S)N=CN2,Mercaptopurine,7.0,7b-2,R,39,DTer,39,Toxicant
+51-21-8,C1=C(C(=O)NC(=O)N1)F,Fluorouracil,7.0,7b-3,No Data,,DTer,"2, 202",Toxicant
+51-52-5,CCCC1=CC(=O)NC(=S)N1,Propylthiouracil,7.0,7b-3,No Data,,D,"2, 203, 204",Toxicant
+96-45-7,C1CNC(=S)N1,Ethylenethiourea,17.0,17a-2,No Data,,DTer,2,NON-Toxicant
+2122-19-2,CC1CNC(=S)N1,Propylenethiourea,17.0,17a-2,No Data,,DTer,205,Toxicant
+3715-92-2,C1CN(C(=S)N1)N=O,N-nitrosoethylenethiourea,17.0,17a-2,No Data,,DTer,206,Toxicant
+22232-54-8,CCOC(=O)N1C=CN(C1=S)C,Carbimazole,17.0,17a-2,No Data,,DTer,"207, 208",Toxicant
+60-56-0,CN1C=CNC1=S,Methimazole,17.0,17a-2,No Data,,DTer,2,Toxicant
+24602-86-6,CCCCCCCCCCCCCN1CC(OC(C1)C)C,Tridemorph,16.0,16b,No Data,,DTer,209,NON-Toxicant
+91315-15-0,CCCCCCCCCCCCN1CC(OC(C1)C)C,Aldimorph,16.0,16b,No Data,,DTer,210,NON-Toxicant
+75-21-8,C1CO1,Ethylene oxide,16.0,16c-1,R,2,DTer,2,NON-Toxicant
+556-52-5,C1C(O1)CO,Glycidol,16.0,16c-1,R,"211, 212",D(MT),211,Toxicant
+106-89-8,C1C(O1)CCl,Epichlorohydrin,16.0,16c-1,RM,213,No Evidence,213,NON-Toxicant
+106-92-3,C=CCOCC1CO1,Allyl glycidyl ether,16.0,16c-2,RM,214,No Data,,Toxicant
+2426-08-6,CCCCOCC1CO1,N-Butyl glycidyl ether,16.0,16c-2,RM,215,Dter,215,NON-Toxicant
+695-53-4,CC1(C(=O)NC(=O)O1)C,Dimethadione,17.0,17b,No Data,,Dter,216,Toxicant
+127-48-0,CC1(C(=O)N(C(=O)O1)C)C,Trimethadione,17.0,17b,No Data,,Dter,"217, 218",Toxicant
+115-67-3,CCC1(C(=O)N(C(=O)O1)C)C,Paramethadione,17.0,17b,No Data,,Dter,"217, 218",Toxicant
+298-46-4,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,Carbamazepine,,,RM,,DTer,39,Toxicant
+745-65-3,CCCCC[C@@H](/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1CCCCCCC(=O)O)O)O,Alprostadil,3.0,3c,No Data,,D,"219, 220",Toxicant
+66-81-9,C[C@H]1C[C@@H](C(=O)[C@@H](C1)[C@@H](CC2CC(=O)NC(=O)C2)O)C,Cycloheximide,18.0,18b,R,2,D,2,Toxicant
+631-64-1,C(C(=O)O)(Br)Br,Dibromoacetic acid,22.0,22a,R,221,DTer,222,Toxicant
+79-43-6,C(C(=O)O)(Cl)Cl,Dichloroacetic acid,22.0,22a,RM,223,DTer,223,Toxicant
+76-03-9,C(=O)(C(Cl)(Cl)Cl)O,Trichloroacetic acid,22.0,22a,R,224,DTer(MT),224,Toxicant
+79-11-8,C(C(=O)O)Cl,Chloroacetic acid,22.0,22a,No Data,,D,225,Toxicant
+99-66-1,CCCC(CCC)C(=O)O,Valproic acid,22.0,22c,RM,226,D,2,Toxicant
+149-57-5,CCCCC(CC)C(=O)O,2-Ethylhexanoic acid,22.0,22c,No Data,,DTer,"227, 228",NON-Toxicant
+124-07-2,CCCCCCCC(=O)O,Octanoic acid,,,No Data,,No Evidence,"227, 229",NON-Toxicant
+71133-14-7,C(=O)(C(Cl)(Cl)Br)O,Bromodichloroacetic acid,22.0,22a,No Data,,D,230,Toxicant
+5589-96-8,C(C(=O)O)(Cl)Br,Bromochloroacetic acid,22.0,22a,RM,231,D,222,Toxicant
+107-14-2,C(C#N)Cl,Chloroacetonitrile,23.0,23d,No Data,,D(MT),232,Toxicant
+3018-12-0,C(#N)C(Cl)Cl,Dichloroacetonitrile,23.0,23d,R,233,D(MT),232,Toxicant
+545-06-2,C(#N)C(Cl)(Cl)Cl,Trichloroacetonitrile,23.0,23d,R,233,D,232,Toxicant
+83463-62-1,C(#N)C(Cl)Br,Bromochloroacetonitrile,23.0,23d,No Data,,D(MT),232,Toxicant
+3252-43-5,C(#N)C(Br)Br,Dibromoacetonitrile,23.0,23d,No Data,,D(MT),232,Toxicant
+79-14-1,C(C(=O)O)O,Glycolic acid,22.0,22b,No Data,,DTer(MT),234,Toxicant
+625-45-6,COCC(=O)O,Methoxyacetic acid,22.0,22b,R,"235, 236",DTer,"235, 236",Toxicant
+4324-37-2,CC(C(=O)O)OC,2-Methoxypropanoic acid,22.0,22b,No Data,,D(MT),237,Toxicant
+107-98-2,CC(COC)O,Propylene glycol monomethyl ether,24.0,24a,No Evidence,238,No Evidence,238,NON-Toxicant
+1589-47-5,CC(CO)OC,2-Methoxy-1-propanol,24.0,24a,No Data,,DTer,239,Toxicant
+627-03-2,CCOCC(=O)O,Ethoxyacetic acid,22.0,22b,R,240,D,240,Toxicant
+54497-00-6,CCCOCC(=O)O,n-Propoxyacetic acid,22.0,22b,No Data,,D,241,Toxicant
+2516-93-0,CCCCOCC(=O)O,n-Butoxyacetic acid,22.0,22b,No Data,,No Evidence,241,NON-Toxicant
+104-76-7,CCCCC(CC)CO,2-Ethyl-1-hexanol,25.0,25b,No Data,,DTer(MT),242,Toxicant
+117-81-7,CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC,di(2-Ethylhexyl) phthalate,2.0,2b-3-3,RM,"243, 244",D,"243, 244",NON-Toxicant
+3274-28-0,CCCCC(CCC)C(=O)O,2-Propylhexanoic acid,22.0,22c,No Data,,DTer,245,Toxicant
+3115-28-4,CCCCC(CCCC)C(=O)O,2-Butylhexanoic acid,22.0,22c,No Data,,DTer,245,NON-Toxicant
+627-93-0,COC(=O)CCCCC(=O)OC,Dimethyl adipate,22.0,22d,No Data,,DTer,246,Toxicant
+141-28-6,CCOC(=O)CCCCC(=O)OCC,Diethyl adipate,22.0,22d,No Data,,DTer,246,Toxicant
+106-19-4,CCCOC(=O)CCCCC(=O)OCCC,Dipropyl adipate,22.0,22d,No Data,,DTer,246,NON-Toxicant
+105-99-7,CCCCOC(=O)CCCCC(=O)OCCCC,Dibutyl adipate,22.0,22d,No Data,,DTer,246,NON-Toxicant
+141-04-8,CC(C)COC(=O)CCCCC(=O)OCC(C)C,Diisobutyl adipate,22.0,22d,No Data,,DTer,246,Toxicant
+103-23-1,CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,Dioctyl adipate,22.0,22d,No Data,,DTer,246,NON-Toxicant
+64-17-5,CCO,Ethanol,25.0,25a,R,247,DTer,247,Toxicant
+71-23-8,CCCO,n-Propanol,25.0,25a,No Data,,D(MT),248,NON-Toxicant
+71-36-3,CCCCO,Butyl alcohol,25.0,25a,No Data,,D(MT),"249, 250",Toxicant
+96-31-1,CNC(=O)NC,"1,3-Dimethylurea",21.0,21b-1,No Evidence,251,DTer,251-253,NON-Toxicant
+61805-96-7,C.C.C(=S)(N)N,"1,3-Dimethylthiourea",21.0,21b-1,No Data,,DTer,252,Toxicant
+632-22-4,CN(C)C(=O)N(C)C,"1,1,3,3-Tetramethylurea",21.0,21b-1,No Data,,DTer,"252, 253, 254",Toxicant
+2782-91-4,CN(C)C(=S)N(C)C,"1,1,3,3-Tetramethylthiourea",21.0,21b-1,No Data,,DTer,"252, 255",Toxicant
+109-46-6,CCCCNC(=S)NCCCC,"1,3-Dibutyl-2-thiourea",21.0,21b-1,No data,,DTer,256,NON-Toxicant
+70-25-7,CN(C(=N)N[N+](=O)[O-])N=O,N-Methyl-N'-nitro-N-nitrosoguanidine,21.0,21b-1,No Data,,DTer,257,Toxicant
+3475-63-6,CN(C)C(=O)N(C)N=O,Trimethylnitrosourea,21.0,21b-1,No Data,,DTer,4,Toxicant
+684-93-5,CN(C(=O)N)N=O,N-Nitroso-N-methylurea,21.0,21b-1,R,"259, 260",DTer,"258, 259",Toxicant
+816-57-9,CCCN(C(=O)N)N=O,Propylnitrosourea,21.0,21b-1,R,261,D,262,Toxicant
+50285-72-8,CCN(CC)C(=O)N(C)N=O,Diethylmethylnitrosourea,21.0,21b-1,No Data,,D,263,Toxicant
+632-14-4,CNC(=O)N(C)C,"N,N',N'-Trimethylurea",21.0,21b-1,No Data,,Dter,"4, 264",Toxicant
+127-07-1,C(=O)(N)NO,Hydroxyurea,21.0,21b-1,R,"265, 266",DTer,2,Toxicant
+598-52-7,CNC(=S)N,1-Methylthiourea,21.0,21b-1,No Data,,DTer,"252, 255, 256, 267",Toxicant
+625-53-6,CCNC(=S)N,1-Ethylthiourea,21.0,21b-1,No Data,,DTer,"252, 255, 256,267",Toxicant
+62-56-6,C(=S)(N)N,Thiourea,21.0,21b-1,R,268,D,268,NON-Toxicant
+51-79-6,CCOC(=O)N,Ethyl carbamate,21.0,21b-1,No Data,,D,"269, 270",Toxicant
+627-12-3,CCCOC(=O)N,Propyl carbamate,21.0,21b-1,No Data,,D,"269, 270",Toxicant
+5395-01-7,C(COC(=O)N)O,?-Hydroxyethyl carbamate,21.0,21b-1,No Data,,DTer,270,Toxicant
+105-58-8,CCOC(=O)OCC,Diethyl carbonate,21.0,21b-1,No Data,,DTer,270,Toxicant
+144-54-7,CNC(=S)S,Methyldithiocarbamate,21.0,21b-1,R,"271, 272",D,"271, 272",Toxicant
+137-26-8,CN(C)C(=S)SSC(=S)N(C)C,Thiram,19.0,19a,R,273,DTer,273,NON-Toxicant
+97-77-8,CCN(CC)C(=S)SSC(=S)N(CC)CC,Disulfiram,19.0,19a,No Data,,D,274-276,NON-Toxicant
+66-27-3,COS(=O)(=O)C,Methyl methanesulfonate,19.0,19b,R,"277, 278",D,"277, 278",Toxicant
+62-50-0,CCOS(=O)(=O)C,Ethyl methanesulfonate,19.0,19b,R,"277, 278",D,"277, 278",Toxicant
+926-06-7,CC(C)OS(=O)(=O)C,Isopropyl methanesulfonate,19.0,19b,R,"277, 278",D,"277, 278",Toxicant
+156-72-9,CS(=O)(=O)OCOS(=O)(=O)C,Methyl ethanesulfonate,19.0,19b,R,279-281,D,281,Toxicant
+1912-30-7,CCOS(=O)(=O)CC,Ethyl ethanesulfonate,19.0,19b,R,279-281,D,279-281,Toxicant
+1912-28-3,CCS(=O)(=O)OC,Methylene dimethanesulfonate,19.0,19b,R,279-281,D,279-281,Toxicant
+15886-84-7,CS(=O)(=O)OCCCOS(=O)(=O)C,Propylene dimethanesulfonate,19.0,19b,R,279-281,D,279-281,Toxicant
+592-62-1,CC(=O)OCN=[N+](C)[O-],Methylazoxymethanol acetate,20.0,20a,No Data,,D,"282, 283",Toxicant
+110-54-3,CCCCCC,n-Hexane,20.0,20b,RM,284,No Evidence,"284, 285",NON-Toxicant
+591-78-6,CCCCC(=O)C,2-Hexanone,20.0,20c,RM,"2, 286",No Data,,NON-Toxicant
+110-13-4,CC(=O)CCC(=O)C,"2,5-Hexanedione",20.0,20d,RM(T),287,No Data,,NON-Toxicant
+684-16-2,C(=O)(C(F)(F)F)C(F)(F)F,Hexafluoroacetone,20.0,20e,R,"288, 289",D,"288, 289",NON-Toxicant
+632-21-3,C(C(=O)C(Cl)Cl)(Cl)Cl,"1,1,3,3-Tetrachloroacetone",20.0,20e,No Data,,D,290,Toxicant
+75-26-3,CC(C)Br,Isopropyl bromide,23.0,23b,R,291,No Data,,Toxicant
+106-94-5,CCCBr,1-Bromopropane,23.0,23b,R,2,No Data,,Toxicant
+56-23-5,C(Cl)(Cl)(Cl)Cl,Carbon tetrachloride,23.0,23a,No Data,,D(MT),292,NON-Toxicant
+67-66-3,C(Cl)(Cl)Cl,Chloroform,23.0,23a,No Data,,D,2,NON-Toxicant
+75-27-4,C(Cl)(Cl)Br,Bromodichloromethane,23.0,23a,R,"292, 293",D,"293, 294",Toxicant
+107-06-2,C(CCl)Cl,"1,2-Dichloroethane",23.0,23b,R(T),295,No Evidence,295,NON-Toxicant
+106-93-4,C(CBr)Br,"1,2-Dibromoethane",23.0,23b,RM,296,D(MT),296,NON-Toxicant
+96-12-8,C(C(CBr)Br)Cl,"1,2-Dibromo-3-chloropropane",23.0,23b,RM,2,No Data,,Toxicant
+96-13-9,C(C(CBr)Br)O,"2,3-Dibromopropanol",23.0,23b,No Evidence,297,D,297,Toxicant
+96-18-4,C(C(CCl)Cl)Cl,"1,2,3-Trichloropropane",23.0,23b,R,298,No Data,,Toxicant
+151-67-7,C(C(F)(F)F)(Cl)Br,Halothane,23.0,23a,No Data,,D,2,Toxicant
+76-38-0,COC(C(Cl)Cl)(F)F,Methoxyflurane,23.0,23b,No Data,,D,39,Toxicant
+13838-16-9,C(C(OC(F)F)(F)F)(F)Cl,Enfluorane,23.0,23b,No Data,,D,299,Toxicant
+28523-86-6,C(OC(C(F)(F)F)C(F)(F)F)F,Sevoflurane,23.0,23a,No Data,,D,300,Toxicant
+75-01-4,C=CCl,Vinyl chloride,23.0,23c,No Data,,D(MT),301,NON-Toxicant
+87-68-3,C(=C(Cl)Cl)(C(=C(Cl)Cl)Cl)Cl,"Hexachloro-1,3-butadiene",23.0,23c,R,302,No Data,,NON-Toxicant
+126-99-8,C=CC(=C)Cl,"2-Chloro-1,3-butadiene",23.0,23c,No Evidence,303,No Evidence,303,NON-Toxicant
+75-15-0,C(=S)=S,Carbon disulfide,24.0,24a,R,304,D,"2, 304",NON-Toxicant
+58-73-1,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,Diphenhydramine HCl,4.0,4a-2,No Data,,D(MT),305,NON-Toxicant
+109-86-4,COCCO,Ethylene glycol monomethyl ether,24.0,24a,R,305,D,306,Toxicant
+60-29-7,CCOCC,Ether,,,R,39,D,5,Toxicant
+142-96-1,CCCCOCCCC,DiButyl ether,,,No Evidence,307,D(MT),307,Toxicant
+110-49-6,CC(=O)OCCOC,Ethylene glycol monomethyl ether acetate,24.0,24a,R,308,D,306,Toxicant
+110-80-5,CCOCCO,Ethylene glycol monoethyl ether,24.0,24a,R,309,D,"2, 309",NON-Toxicant
+110-71-4,COCCOC,"1,2-Dimethoxyethane",24.0,24b,No Data,,DTer,306,Toxicant
+111-96-6,COCCOCCOC,Diethylene glycol dimethyl ether,24.0,24b,RM,311,D,311,Toxicant
+112-49-2,COCCOCCOCCOC,Triethylene glycol dimethyl ether,24.0,24b,RM,312,DTer,313,Toxicant
+112-36-7,CCOCCOCCOCC,Diethylene glycol diethyl ether,24.0,24b,No Data,,D(MT),314,Toxicant
+112-35-6,COCCOCCOCCO,Triethylene glycol monomethyl ether,24.0,24b,RM,315,D,315,Toxicant
+111-90-0,CCOCCOCCO,Diethylene glycol monoethyl ether,24.0,24b,No Evidence,316,D(MT),316,Toxicant
+111-15-9,CCOCCOC(=O)C,Ethylene glycol monoethyl ether acetate,24.0,24a,RM,"2, 317",DTer,"2, 317",Toxicant
+112-07-2,CCCCOCCOC(=O)C,Ethylene glycol monobutyl ether acetate,24.0,24a,R,318,D,318,Toxicant
+111-46-6,C(COCCO)O,Diethylene glycol,24.0,24b,RM,319,D(MT),319,Toxicant
+110-63-4,C(CCO)CO,"1,4-Butanediol",24.0,24a,No Evidence,320,D(MT),224,Toxicant
+51-75-2,CN(CCCl)CCCl,Mechlorothamine (Nitrogen mustard),23.0,23e,No Data,,D,2,Toxicant
+55-86-7,CN(CCCl)CCCl.Cl,Mechlorethamine HCl,23.0,23e,No Data,,D,2,Toxicant
+67-56-1,CO,Methanol,25.0,25a,No Data,,DTer,321,NON-Toxicant
+75-05-8,CC#N,Acetonitrile,25.0,25c,No Data,,D,322,NON-Toxicant
+107-12-0,CCC#N,Propionitrile,25.0,25c,No Data,,D,322,Toxicant
+109-74-0,CCCC#N,n-Butyronitrile,25.0,25c,No Data,,D,322,Toxicant
+126-98-7,CC(=C)C#N,Methacrylonitrile,25.0,25d,No Data,,D,322,Toxicant
+109-75-1,C=CCC#N,Allylnitrile,25.0,25d,No Data,,D,322,Toxicant
+25899-50-7,CC/C=C\C#N,cis-2-Pentenenitrile,25.0,25d,No Data,,D,322,NON-Toxicant
+107-13-1,C=CC#N,Acrylonitrile,25.0,25d,No Data,,D,322,Toxicant
+920-37-6,C=C(C#N)Cl,2-Chloroacrylonitrile,25.0,25d,No Data,,D,322,Toxicant
+4449-51-8,C[C@H]1C[C@@H]2[C@H]([C@H]([C@]3(O2)CC[C@H]4[C@@H]5CC=C6C[C@H](CC[C@@]6([C@H]5CC4=C3C)C)O)C)NC1,Cyclopamine,5.0,5d-1,No Data,,D,"323, 324",Toxicant
+469-59-0,C[C@H]1C[C@@H]2[C@H]([C@H]([C@]3(O2)CC[C@H]4[C@@H]5CC=C6C[C@H](CC[C@@]6([C@H]5C(=O)C4=C3C)C)O)C)NC1,Jervine,5.0,5d-1,No Data,,D,323-325,Toxicant
+23185-94-6,C[C@H]1C[C@@H]2[C@H]([C@H]([C@]3(O2)CC[C@H]4[C@@H]5CC=C6C[C@H](CC[C@@]6([C@H]5CC4=C3C)C)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)C)NC1,Cycloposine,5.0,5d-1,No Data,,D,"323, 324",Toxicant
+366-93-8,C1CC(CCC1CNCC2=CC=CC=C2Cl)CNCC3=CC=CC=C3Cl.Cl.Cl,AY-9944,5.0,5d-2,No Data,,D,"326, 327",NON-Toxicant
+86621-92-3,C1CN(CCN1CCC2=CC=C(C=C2)C(=O)O)C/C=C/C3=CC=C(C=C3)Cl,BM 15766,5.0,5d-4,No Data,,D,"326, 327",Toxicant
+78-41-1,CCN(CC)CCOC1=CC=C(C=C1)C(CC2=CC=C(C=C2)Cl)(C3=CC=C(C=C3)C)O,Triparanol,5.0,5d-3,No Data,,D,"326, 327",Toxicant
+60-00-4,C(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O,EDTA,24.0,24f,No Data,,D,328,NON-Toxicant
+304-55-2,[C@@H]([C@@H](C(=O)O)S)(C(=O)O)S,DMSA,24.0,24d,No Data,,DTer,328,Toxicant
+4076-02-2,C(C(CS(=O)(=O)[O-])S)S.[Na+],DMPS,24.0,24d,No Data,,No Evidence,328,Toxicant
+52-67-5,CC(C)([C@H](C(=O)O)N)S,DPA,24.0,24e,No Data,,D,328,Toxicant
+59-52-9,C(C(CS)S)O,BAL,24.0,24d,No Data,,D,328,Toxicant
+55-98-1,CS(=O)(=O)OCCCCOS(=O)(=O)C,Busulfan,19.0,19b,R(T),39,DTer(MT),39,Toxicant
+32222-06-3,C[C@H](CCCC(C)(C)O)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](C[C@@H](C3=C)O)O)C,Calcitriol,16.0,16a,RF,329,DTer(MT),"330, 331",Toxicant
+67-97-0,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C,Cholecalciferol,16.0,16a,R,"329, 332",DTer(MT),333-335,Toxicant
+41294-56-8,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](C[C@@H](C3=C)O)O)C,Alfacalcidol,16.0,16a,No Data,,DTer(MT),"330, 331",Toxicant
+62571-86-2,C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O,Captopril,5.0,5c-1,No Data,,DTer,"39, 40",Toxicant
+75847-73-3,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2CCC[C@H]2C(=O)O,Enalapril,5.0,5c-1,No Data,,DTer,39,NON-Toxicant
+86541-75-5,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]2CCC3=CC=CC=C3N(C2=O)CC(=O)O,Benazepril,5.0,5c-2,No Data,,DTer,39,NON-Toxicant
+98048-97-6,CCC(=O)OC(C(C)C)OP(=O)(CCCCC1=CC=CC=C1)CC(=O)N2C[C@@H](C[C@H]2C(=O)O)C3CCCCC3,Fosinopril,1.0,1c,No Data,,DTer,39,Toxicant
+76547-98-3,C1C[C@H](N(C1)C(=O)[C@H](CCCCN)N[C@@H](CCC2=CC=CC=C2)C(=O)O)C(=O)O,Lisinopril,5.0,5c-1,No Data,,DTer,39,NON-Toxicant
+103775-10-6,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2CC3=CC(=C(C=C3C[C@H]2C(=O)O)OC)OC,Moexipril,5.0,5c-1-1,No Data,,DTer,39,Toxicant
+82834-16-0,CCC[C@@H](C(=O)OCC)N[C@@H](C)C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C(=O)O,Perindopril,5.0,5c-1-1,No Data,,DTer(MT),39,NON-Toxicant
+139481-59-7,CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5)C(=O)O,Candesartan,5.0,5c-3,No Evidence,39,No Evidence,39,NON-Toxicant
+137862-53-4,CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NNN=N3)[C@@H](C(C)C)C(=O)O,Valsartan,5.0,5c-3,No Data,,D(MT),39,Toxicant
+114798-26-4,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl,Losartan,5.0,5c-3,No Data,,D,39,Toxicant
+138402-11-6,CCCCC1=NC2(CCCC2)C(=O)N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5,Irbesartan,5.0,5c-3,No Data,,D(MT),39,Toxicant
+308064-18-8,,"Di-Me, Me Ph cyclosiloxanes (PMxMMy)",1.0,1c-3,R(T),336,DTer,"336, 337",Toxicant
+56-33-7,C[Si](C)(C1=CC=CC=C1)O[Si](C)(C)C2=CC=CC=C2,sym-Diphenyltetramethyldisiloxane,1.0,1c-2,R,338,D,338,Toxicant
+27991-60-2,C=C[Si](C)(O[Si](C)(C)C)c1ccccc1,"Disiloxane, 1,1,1,3-tetramethyl-3-phenyl-3-vinyl-",1.0,1c-2,R,338,D,338,Toxicant
+35964-68-2,CC(C[Si](C)(C)O[Si](C)(C)C)c1ccccc1,"Disiloxane, pentamethyl(2-phenylpropyl)-",1.0,1c-2,R,338,D,338,Toxicant
+27991-58-8,C[Si](C)(C)O[Si](C1=CC=CC=C1)O[Si](C)(C)C,Phenylbis(trimethylsiloxy)silane,1.0,1c-2,R,338,D,338,Toxicant
+797-77-3,C[Si](C)(C)O[Si](C1=CC=CC=C1)(C2=CC=CC=C2)O[Si](C)(C)C,Diphenylbis(trimethylsiloxy)silane,1.0,1c-2,R,338,D,338,Toxicant
+17962-31-1,C[Si]1(O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C)C,Phenylpentamethylcyclotrisiloxane,1.0,1c-4,R,338,D,338,Toxicant
+17995-19-6,C[Si]3(C)O[Si](C)(c1ccccc1)O[Si](C)(c2ccccc2)O3,"2,4-Diphenyl-2,4,6,6-tetramethylcyclotrisiloxane",1.0,1c-4,R,338,D,338,Toxicant
+31751-59-4,C[Si]1(O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C3=CC=CC=C3)C,"trans-2,2,4,6-Tetramethyl-4,6-diphenylcyclotrisiloxane",1.0,1c-4,R,338,D,338,Toxicant
+10448-09-6,C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C2=CC=CC=C2)(C)C)C,Phenylheptamethylcyclotetrasiloxane,1.0,1c-4,R,338,D,338,Toxicant
+35964-76-2,Cc1ccccc1[Si]2(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O2,"Cyclotetrasiloxane, heptamethyl(2-methylphenyl)- trans-2,6-",1.0,1c-4,R,338,D,338,Toxicant
+33204-77-2,C[Si]1(O[Si](O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C)(C)C3=CC=CC=C3)C,Diphenylhexamethylcyclotetrasiloxane,1.0,1c-4,R,338,D,338,Toxicant
+33204-76-1,C[Si]1(O[Si](O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C)(C)C3=CC=CC=C3)C,"cis-2,6-Diphenylhexamethylcyclotetrasiloxane",1.0,1c-4,R,338,D,338,Toxicant
+17156-72-8,C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)C2=CC=CC=C2)C,"Cyclotetrasiloxane, 2,2,4,4,6,6-hexamethyl-8-phenyl-",1.0,1c-4,R,338,D,338,Toxicant
+17964-44-2,C[Si]1(CC[Si](O1)(C)C2=CC=CC=C2)C3=CC=CC=C3,"1-Oxa-2,5-disilacyclopentane, 2,5- dimethyl-2,5-diphenyl-",1.0,1c-3,R,338,D,338,Toxicant
+4657-20-9,C[Si]1(O[Si](O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C)(C)C3=CC=CC=C3)C,"2,2,4,6,6,8-Hexamethyl-4,8-diphenylcyclotetrasiloxane",1.0,1c-4,R,338,D,338,Toxicant
+363-24-6,CCCCC[C@@H](/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1C/C=C\CCCC(=O)O)O)O,Prostaglandin E2,3.0,3c,No Data,,D,339,NON-Toxicant
+551-11-1,CCCCC[C@@H](/C=C/[C@H]1[C@@H](C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)O)O)O,Prostaglandin F2,3.0,3c,No Data,,D,340,Toxicant
+59122-46-2,CCCCC(C)(C/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1CCCCCCC(=O)OC)O)O,Misoprostol,3.0,3c,RF,341,DTer,342,Toxicant
+363-22-4,CCCCC[C@@H](CC[C@H]1[C@@H](CC(=O)[C@@H]1C/C=C\CCCC(=O)O)O)O,"13,14-dihydro-PGE2",3.0,3c,No Data,,DTer,343,Toxicant
+42935-17-1,CCCCC[C@@H](/C=C/[C@H]1[C@H]2C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)OO2)O,PGH2,3.0,3c,No Data,,DTer,343,NON-Toxicant
+41598-07-6,CCCCC[C@@H](/C=C/[C@@H]1[C@H]([C@H](CC1=O)O)C/C=C\CCCC(=O)O)O,PGD2,3.0,3c,No Data,,DTer,343,NON-Toxicant
+57576-52-0,CCCCC[C@@H](/C=C/[C@@H]1[C@H]([C@@H]2C[C@@H](O2)O1)C/C=C\CCCC(=O)O)O,Thromboxane A2,3.0,3c,No Data,,DTer(MT),344,NON-Toxicant
+53643-48-4,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)N)O)O)CC)OC)C(=O)OC)O,Vindesine,6.0,6b-3,No Data,,D,"39, 345",Toxicant
+162652-95-1,CC[C@@]12C=CCN3[C@@H]1[C@]4(CC3)[C@H]([C@]([C@@H]2OC(=O)C)(C(=O)OC)O)N(C5=CC(=C(C=C45)[C@]6(C[C@@H]7C[C@H](CN(C7)CC8=C6NC9=CC=CC=C89)C(C)(F)F)C(=O)OC)OC)C,Vinflunine,6.0,6b-3,No Data,,D,345,Toxicant
+124689-65-2,C[C@@H]1CNC(=O)[C@H](NC(=O)/C=C/C[C@H](OC(=O)[C@@H](OC1=O)CC(C)C)[C@H](C)[C@@H]2[C@H](O2)C3=CC=CC=C3)CC4=CC(=C(C=C4)OC)Cl,Cryptophycin,6.0,6b-3,No Data,,D,345,NON-Toxicant
+147427-91-6,CC1CC2(CC(C)C3OC4(CC5OC6C(C)C7OC(=O)CC8CCC9OC%10(O)C%11OC%12(CCC%13CC(=C)C(CCC%14CC(C)C(=C)C(CC7OC6CC5O4)O%14)O%13)CC%11OC%10C(O%12)C9O8)CC3O2)OC2CC(OC12)C(O)CC(O)CO,Halichondrin,6.0,6b-3,No Data,,D,345,Toxicant
+2998-57-4,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl,Estramustine,6.0,6b-3,No Data,,D,345,Toxicant
+82855-09-2,COC1=C(C=C(C=C1)C[C@H](C2=CC(=C(C(=C2)OC)OC)OC)O)O,Combretastatin,6.0,6b-3,No Data,,D,345,NON-Toxicant
+128-62-1,CN1CCC2=CC3=C(C(=C2[C@@H]1[C@@H]4C5=C(C(=C(C=C5)OC)OC)C(=O)O4)OC)OCO3,Noscapine,6.0,6b-3,No Data,,D,345,Toxicant
+35846-53-8,C[C@@H]1[C@@H]2C[C@]([C@@H](/C=C/C=C(/CC3=CC(=C(C(=C3)OC)Cl)N(C(=O)C[C@@H]([C@]4([C@H]1O4)C)OC(=O)[C@H](C)N(C)C(=O)C)C)\C)OC)(NC(=O)O2)O,Maytansine,6.0,6b-3,No Data,,D,345,NON-Toxicant
+90996-54-6,C[C@@H]1/C=C/[C@@H]2[C@](O2)([C@H](C[C@H](OC(=O)[C@H]3[C@@H](O3)C[C@@H]4C[C@H]1OC(=O)C4)[C@H](C)[C@H](/C(=C/C=C/C(=C/C5=COC(=N5)C)/C)/C)OC)O)C,Rhizoxin,6.0,6b-3,No Data,,D,345,Toxicant
+149715-96-8,C[C@@H]1[C@@H]2CCC/C=C/[C@H]3C[C@H](C[C@]4(O3)C[C@@H](C[C@@H](O4)CC(=O)[C@H]([C@H]([C@@H](C(=C)C[C@H]5C[C@](C[C@]6(O5)C[C@H](CC(O6)CC(=O)O[C@@H]7[C@H]([C@H]([C@H](C(O2)(C[C@H]1O)O)O)O[C@@H]([C@H]7O)CC(=C)C[C@H](/C=C\C(=C)Cl)O)C)OC(=O)C)(C)O)C)OC(=O)C)C)OC)O,Spongistatin,6.0,6b-3,No Data,,D,345,NON-Toxicant
+41451-68-7,CC(=O)O[C@@H]1[C@H]2COC(=O)[C@@H]2CC3=CC(=C(C(=C3C4=CC5=C(C=C14)OCO5)OC)OC)OC,Steganacin,6.0,6b-3,No Data,,D,345,Toxicant
+20585-97-1,CC1=C(C(=C(C(=C1Cl)O)Cl)OC)C(=O)O[C@H]([C@@H](C)O)[C@@H](CC=O)O,Curacin,6.0,6b-3,No Data,,D,345,NON-Toxicant
+57-56-7,C(=O)(N)NN,Semicarbazide,21.0,21b-1,No Data,,DTer,346,Toxicant
+79-19-6,C(=S)(N)NN,Thiosemicarbazide,21.0,21b-1,No Data,,DTer,347,Toxicant
+302-79-4,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C,trans-Retinoic acid,3.0,3a-1,No Data,,D,348,Toxicant
+4759-48-2,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C\C(=O)O)/C)/C,Isotretinoin,3.0,3a-1-1,No Data,,DTer,349,Toxicant
+116-31-4,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=O)/C)/C,Retinal,3.0,3a-1-1,No Data,,D,350,Toxicant
+68-26-8,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/CO)/C)/C,Retinol,3.0,3a-1-1,No Data,,DTer,351,Toxicant
+38030-57-8,CC1=C(C(CCC1=O)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C,4-Oxotretinoin,3.0,3a-1-2,No Data,,DTer,352,Toxicant
+127-47-9,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/COC(=O)C)/C)/C,trans-Retinol acetate,3.0,3a-1-1,No Data,,DTer,353,Toxicant
+700-06-1,C1=CC=C2C(=C1)C(=CN2)CO,Indole-3-methanol,3.0,3b-4,R,354,D,354,Toxicant
+13523-86-9,CC(C)NCC(COC1=CC=CC2=C1C=CN2)O,Pindolol,5.0,5b,R,"355, 356",D,"355, 356",Toxicant
+525-66-6,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O,Propanolol,5.0,5b,RM,357,D,358,Toxicant
+29122-68-7,CC(C)NCC(COC1=CC=C(C=C1)CC(=O)N)O,Atenolol,5.0,5b,No Data,,D(MT),359,Toxicant
+37517-30-9,CCCC(=O)NC1=CC(=C(C=C1)OCC(CNC(C)C)O)C(=O)C,Acebutolol HCl,5.0,5b,No Data,,D(MT),39,Toxicant
+51384-51-1,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O,Metoprolol,5.0,5b,No Data,,D(MT),"39, 356",Toxicant
+13655-52-2,CC(C)NCC(COC1=CC=CC=C1CC=C)O,"2-Propanol, 1-(o-allylphenoxy)-3- (isopropylamino)-",5.0,5b,No Data,,D,"356, 360",NON-Toxicant
+36894-69-6,CC(CCC1=CC=CC=C1)NCC(C2=CC(=C(C=C2)O)C(=O)N)O,"Benzamide, 2-hydroxy-5-(1-hydroxy-2- ((1-methyl-3-phenylpropyl)amino)ethyl)-",11.0,11a,No Data,,D(MT),360,Toxicant
+42200-33-9,CC(C)(C)NCC(COC1=CC=CC2=C1C[C@@H]([C@@H](C2)O)O)O,Nadolol,5.0,5b,No Data,,D,361,Toxicant
+79-06-1,C=CC(=O)N,Acrylamide,21.0,21a,R,"362, 363",D(MT),362,Toxicant
+1187-59-3,CNC(=O)C=C,N-Methylacrylamide,21.0,21a,R,"364, 365",No Data,,Toxicant
+2210-25-5,CC(C)NC(=O)C=C,N-Isopropylacrylamide,21.0,21a,RM,"364, 365",No Data,,NON-Toxicant
+79-39-0,CC(=C)C(=O)N,Methacrylamide,21.0,21a,RM,"364, 366",D(MT),367,Toxicant
+110-26-9,C=CC(=O)NCNC(=O)C=C,Methylenediacrylamide,21.0,21a,R,368,D,366-368,Toxicant
+107-02-8,C=CC=O,Acrolein,21.0,21a,No Evidence,369,D(MT),369,Toxicant
+96-33-3,COC(=O)C=C,Methyl acrylate,21.0,21a,No Data,,D(MT),"370, 371",Toxicant
+80-62-6,CC(=C)C(=O)OC,Methyl methacrylate,21.0,21a,RM,372,No Data,,Toxicant
+97-63-2,CCOC(=O)C(=C)C,Ethyl methacrylate,21.0,21a,No Data,,D,373,Toxicant
+97-86-9,CC(C)COC(=O)C(=C)C,Isobutyl methacrylate,21.0,21a,No Data,,D,"40, 373, 374",Toxicant
+29964-84-9,CC(C)CCCCCCCOC(=O)C(=C)C,Isodecyl methacrylate,21.0,21a,No Data,,D,"40, 373, 374",Toxicant
+23135-22-0,CNC(=O)O/N=C(/C(=O)N(C)C)\SC,Oxamyl,21.0,21b-2,No Evidence,375,D(MT),375,NON-Toxicant
+16752-77-5,C/C(=N\OC(=O)NC)/SC,Methomyl,21.0,21b-2,No Evidence,376,No Evidence,376,Toxicant
+116-06-3,CC(C)(/C=N/OC(=O)NC)SC,Aldicarb,21.0,21b-2,No Data,,D(MT),377,Toxicant
+125133-94-0,CCCC1CCCCN1C,"Piperidine, 1-methyl-2-propyl-",4.0,4a-3,No Data,,DTer,378,NON-Toxicant
+1604-01-9,CCCC1=NCCCC1,"Pyridine, 2,3,4,5-tetrahydro-6-propyl-",4.0,4a-3,No Data,,DTer,378,NON-Toxicant
+458-88-8,CCC[C@H]1CCCCN1,"Piperidine, 2-propyl-, (2S)-",4.0,4a-3,No Data,,DTer,379,NON-Toxicant
+494-15-5,CC(=O)N1CCCC(=C1)[C@H]2CCCCN2,Ammodendrine,4.0,4a-3,No Data,,DTer,379,Toxicant
+494-52-0,C1CCN[C@@H](C1)C2=CN=CC=C2,Anabasine,4.0,4a-3,No Data,,DTer,379,Toxicant
+3471-05-4,C1CCN=C(C1)C2=CN=CC=C2,Anabaseine,4.0,4a-3,No Data,,DTer,379,Toxicant
+123441-03-2,CCN(C)C(=O)OC1=CC=CC(=C1)[C@H](C)N(C)C,Rivastigmine,4.0,4b-1,No Data,,D(MT),355,NON-Toxicant
+82560-54-1,CCOC(=O)CCN(C(C)C)SN(C)C(=O)OC1=CC=CC2=C1OC(C2)(C)C,Benfuracarb,4.0,4b-1,R,380,D,380,Toxicant
+72490-01-8,CCOC(=O)NCCOC1=CC=C(C=C1)OC2=CC=CC=C2,Fenoxycarb,4.0,4b-2,R,381,D,381,NON-Toxicant
+55285-14-8,CCCCN(CCCC)SN(C)C(=O)OC1=CC=CC2=C1OC(C2)(C)C,Carbosulfan,4.0,4b-1,R,382,D,382,Toxicant
+29973-13-5,CCSCC1=CC=CC=C1OC(=O)NC,Ethiofencarb,4.0,4b-1,R,383,No Evidence,383,Toxicant
+23103-98-2,CC1=C(N=C(N=C1OC(=O)N(C)C)N(C)C)C,Pirimicarb,4.0,4b-1,No Evidence,384,D(MT),384,Toxicant
+22781-23-3,CC1(OC2=C(O1)C(=CC=C2)OC(=O)NC)C,Bendiocarb,4.0,4b-1,No Data,,D,385,Toxicant
+2425-10-7,CC1=C(C=C(C=C1)OC(=O)NC)C,Xylylcarb,4.0,4b-1,No Data,,D,386,Toxicant
+2032-65-7,CC1=CC(=CC(=C1SC)C)OC(=O)NC,Methiocarb,4.0,4b-1,No Data,,D,387,NON-Toxicant
+2032-59-9,CC1=C(C=CC(=C1)OC(=O)NC)N(C)C,Aminocarb,4.0,4b-1,No Data,,D,388,Toxicant
+1563-66-2,CC1(CC2=C(O1)C(=CC=C2)OC(=O)NC)C,Carbofuran,4.0,4b-1,RM,390,D,389,Toxicant
+315-18-4,CC1=CC(=CC(=C1N(C)C)C)OC(=O)NC,Mexacarbate,4.0,4b-1,No Data,,D,390,Toxicant
+114-26-1,CC(C)OC1=CC=CC=C1OC(=O)NC,Propoxur,4.0,4b-1,No Evidence,391,D(MT),"391, 392",Toxicant
+63-25-2,CNC(=O)OC1=CC=CC2=CC=CC=C21,Carbaryl,4.0,4b-1,RM,393,DTer,393,Toxicant
+307-35-7,C(C(C(C(C(F)(F)S(=O)(=O)F)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F,Perfluorooctylsulfonyl fluoride,19.0,19c,No Data,,D,394,NON-Toxicant
+1691-99-2,CCN(CCO)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,"1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-",19.0,19c,No Data,,D,"394, 395",Toxicant
+2795-39-3,C(C(C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F.[K+],Potassium perfluorooctanesulfonate,19.0,19c,No Data,,D,"396, 397",NON-Toxicant
+29457-72-5,[Li+].C(C(C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F,Lithium perfluorooctane sulfonate,19.0,19c,No Data,,D(MT),"398, 399",NON-Toxicant
+123-91-1,C1COCCO1,"1,4 Dioxane",17.0,17c,No Data,,D(MT),400,Toxicant
+4998-76-9,C1CCC(CC1)N.Cl,"Cyclohexylamine, hydrochloride",17.0,17c,RM,401,D,402,Toxicant
+108-91-8,C1CCC(CC1)N,Cyclohexylamine,17.0,17c,RM,403,D,404,Toxicant
+110-85-0,C1CNCCN1,Piperazine,17.0,17c,RF(T),405,DTer(MT),405,NON-Toxicant
+18507-89-6,CCCCCCCCCCOC1=C(C=C2C(=C1)C(=O)C(=CN2)C(=O)OCC)OCC,Decocquinate,14.0,14b-2-1,No Evidence,406,D,406,Toxicant
+389-08-2,CCN1C=C(C(=O)C2=C1N=C(C=C2)C)C(=O)O,Nalidixic acid,14.0,14b-2-1,No Data,,D,39,Toxicant
+98106-17-3,CN1CCN(CC1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4=CC=C(C=C4)F)F,Difloxacin,14.0,14b-2-2,No Data,,D,407,Toxicant
+82419-36-1,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,Ofloxacin,14.0,14b-2-2,No Data,,D,408,Toxicant
+147059-72-1,C1[C@@H]2[C@@H](C2N)CN1C3=C(C=C4C(=O)C(=CN(C4=N3)C5=C(C=C(C=C5)F)F)C(=O)O)F,Trovafloxacin,14.0,14b-2-2,No Data,,D,39,Toxicant
+112398-08-0,CN1C[C@@H]2C[C@H]1CN2C3=C(C=C4C(=C3)N(C=C(C4=O)C(=O)O)C5CC5)F,Danofloxacin,14.0,14b-2-2,No Data,,D(MT),409,Toxicant
+93106-60-6,CCN1CCN(CC1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4CC4)F,Enrofloxacin,14.0,14b-2-2,RM,,D,410,Toxicant
+85721-33-1,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,Ciprofloxacin,14.0,14b-2-2,No Data,,D,"411, 412",Toxicant
+115550-35-1,CN1CCN(CC1)C2=C(C=C3C4=C2OCN(N4C=C(C3=O)C(=O)O)C)F,Marbofloxacin,14.0,14b-2-2,R,412,D,413,Toxicant
+100986-85-4,C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,Levofloxacin,14.0,14b-2-2,No Evidence,39,D,414,Toxicant
+42835-25-6,CC1CCC2=C3N1C=C(C(=O)C3=CC(=C2)F)C(=O)O,Flumequine,14.0,14b-2-2,No Evidence,414,D,415,Toxicant
